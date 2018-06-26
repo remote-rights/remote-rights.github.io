@@ -1,6 +1,6 @@
 ---
-layout: pages/strategy
-title: "Make Sure You're Safe"
+layout: pages/strategy/make-sure-you-re-safe
+title: Make Sure You're Safe
 position: 2
 ---
 
@@ -30,10 +30,10 @@ Sometimes, advocacy can open us up to unwanted attention. Being vocal about the 
   * _Will there be counter-protesters?_
   * _Does an adult who isn't going to the protest know you're going?_
   * _In case you can't use your cellphone, do you know somebody's phone number off by heart, or do you have it written on your     leg?_
-  * _Are the police going to be there? If so, will that make you feel safe?_ 
+  * _Are the police going to be there? If so, will that make you feel safe?_
   * _Do you have enough water?_
-  * _Are you wearing comfortable shoes?_ 
-  
+  * _Are you wearing comfortable shoes?_
+
   ### For more info about protesting safely, research "_how to protest safely_" online.
 
 
