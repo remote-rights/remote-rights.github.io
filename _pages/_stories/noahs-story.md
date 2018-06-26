@@ -4,7 +4,6 @@ title: Noah Irvine Mental Health in Canada
 position: 1
 ---
 
-
 # Noah Irvine, Guelph Ontario - Mental Health in Canada
 
 
