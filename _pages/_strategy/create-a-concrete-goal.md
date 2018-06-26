@@ -1,5 +1,5 @@
 ---
-layout: pages/change
+layout: pages/strategy
 title: "Create a Concrete Goal"
 position: 1
 ---
