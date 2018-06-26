@@ -1,0 +1,13 @@
+<div class="jumbotron">
+  <h1 class="h2">I want to change something in my&hellip;</h1>
+</div>
+
+<div class="row body">
+  <div class="col-lg-4">
+    <div class="list-group">
+      {% for item in site.change %}
+        <a class="list-group-item list-group-item-action" href="{{ item.url }}">{{ item.title }}</a>
+      {% endfor %}
+    </div>
+  </div>
+</div>
