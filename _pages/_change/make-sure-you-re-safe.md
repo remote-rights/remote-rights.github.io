@@ -34,7 +34,7 @@ Sometimes, advocacy can open us up to unwanted attention. Being vocal about the 
   * _Do you have enough water?_
   * _Are you wearing comfortable shoes?_ 
   
-  ###For more info about protesting safely, research "how to protest safely" online.
+  ### For more info about protesting safely, research "how to protest safely" online.
 
 
 <!-- Side bubble:
