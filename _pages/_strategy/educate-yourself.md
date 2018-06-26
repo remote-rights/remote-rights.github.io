@@ -1,6 +1,6 @@
 ---
-layout: pages/strategy
-title: "Educate Yourself"
+layout: pages/strategy/educate-yourself
+title: Educate Yourself
 position: 3
 ---
 
