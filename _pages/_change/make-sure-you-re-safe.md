@@ -26,15 +26,15 @@ Sometimes, advocacy can open us up to unwanted attention. Being vocal about the 
 - Always bring someone with you when you are going to talk about your cause in public.
 - Do research before you go to protests. Talk to someone you know who's been to them in your area. What are the safety issues involved in protesting where you live?
 - When considering going to a protest, some useful safety questions to ask are:
-  * Is the protest legal?
-  * Will there be counter-protesters?
-  * Does an adult who isn't going to the protest know you're going?
-  * In case you can't use your cellphone, do you know somebody's phone number off by heart, or do you have it written on your     leg?
-  * Are the police going to be there? If so, will that make you feel safe? 
-  * Do you have enough water?
-  * Are you wearing comfortable shoes? 
+  * _Is the protest legal?_
+  * _Will there be counter-protesters?_
+  * _Does an adult who isn't going to the protest know you're going?_
+  * _In case you can't use your cellphone, do you know somebody's phone number off by heart, or do you have it written on your     leg?_
+  * _Are the police going to be there? If so, will that make you feel safe?_ 
+  * _Do you have enough water?_
+  * _Are you wearing comfortable shoes?_ 
   
-  _For more info about protesting safely, research "how to protest safely" online._
+  ###For more info about protesting safely, research "how to protest safely" online.
 
 
 <!-- Side bubble:
