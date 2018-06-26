@@ -1,6 +1,6 @@
 ---
-layout: pages/strategy/create-a-concrete-goal
-title: Create a Concrete Goal
+layout: pages/strategy
+title: "Create a Concrete Goal"
 position: 1
 ---
 
