@@ -21,12 +21,20 @@ Sometimes, advocacy can open us up to unwanted attention. Being vocal about the 
 - Triple-check the privacy on your social media accounts and email.
 - Keep evidence of any harassment you experience:  screenshots, pictures and print-outs of anything that has to do with your cause.
 
-# 3. Always Plan Ahead
+## 3. Always Plan Ahead
 
 - Always bring someone with you when you are going to talk about your cause in public.
 - Do research before you go to protests. Talk to someone you know who's been to them in your area. What are the safety issues involved in protesting where you live?
 - When considering going to a protest, some useful safety questions to ask are:
-Is the protest legal? - Will there be counter-protesters? Does an adult who isn't going to the protest know you're going? In case you can't use your cellphone, do you know somebody's phone number off by heart, or do you have it written on your leg? Are the police going to be there? If so, will that make you feel safe? Do you have enough water? Are you wearing comfortable shoes? For more info about protesting safely, research "how to protest safely" online.
+  * Is the protest legal?
+  * Will there be counter-protesters?
+  * Does an adult who isn't going to the protest know you're going?
+  * In case you can't use your cellphone, do you know somebody's phone number off by heart, or do you have it written on your     leg?
+  * Are the police going to be there? If so, will that make you feel safe? 
+  * Do you have enough water?
+  * Are you wearing comfortable shoes? 
+  
+  _For more info about protesting safely, research "how to protest safely" online._
 
 
 <!-- Side bubble:
