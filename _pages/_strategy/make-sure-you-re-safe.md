@@ -1,5 +1,5 @@
 ---
-layout: pages/change
+layout: pages/strategy
 title: "Make Sure You're Safe"
 position: 2
 ---
