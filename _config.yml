@@ -4,16 +4,20 @@ title: Remote Rights Advocacy Toolkit
 collections_dir: collections
 collections:
   change:
-    title: I want to make a change in my...
+    title: Change
     output: true
     permalink: /:collection/:title
+    custom: true
 
   stories:
     title: Featured Stories
     output: true
     permalink: /:collection/:title
+    custom: true
 
   strategy:
     title: Advocacy Strategies
     output: true
     permalink: /:collection/:title
+    custom: true
+

@@ -3,9 +3,19 @@
 # only Main files contain this front matter, not partials.
 ---
 
-$primary: pink;
 @import "bootstrap/bootstrap";
 
 .container {
-  margin-top: 45px;
+  margin-top: 3rem;
+}
+
+.home-section {
+  margin-bottom: 2rem;
+}
+
+.footer {
+  margin-top: 2rem;
+  border-top: 1px solid $primary;
+  padding-top: 1rem;
+  padding-bottom: 1rem;
 }
