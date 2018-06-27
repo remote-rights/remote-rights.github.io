@@ -1,6 +1,19 @@
 url: https://remote-rights.github.io
 title: Remote Rights Advocacy Toolkit
+
+collections_dir: collections
 collections:
   change:
     title: I want to make a change in my...
     output: true
+    permalink: /:collection/:title
+
+  stories:
+    title: Featured Stories
+    output: true
+    permalink: /:collection/:title
+
+  strategy:
+    title: Advocacy Strategies
+    output: true
+    permalink: /:collection/:title
