@@ -1,7 +1,8 @@
 ---
-layout: pages/strategy/educate-yourself
+layout: strategy
 title: Educate Yourself
 position: 3
+aside: If you don't know where to start, ask a librarian at your library
 ---
 
 # Educate Yourself
