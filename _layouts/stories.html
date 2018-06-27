@@ -1,0 +1,12 @@
+{% include head.html %}
+<div class="h2">{{ page.title }}</div>
+<div class="row justify-content-around">
+  <div class="col-md-12">
+  {{ page.content }}
+
+    <aside>
+      {{ aside.content }}
+    </aside>
+  </div>
+</div>
+{% include foot.html %}
