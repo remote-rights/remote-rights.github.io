@@ -1,5 +1,5 @@
 ---
-layout: pages/stories/noahs-story
+layout: stories
 title: Noah Irvine Mental Health in Canada
 position: 1
 ---
