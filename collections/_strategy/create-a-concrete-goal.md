@@ -2,7 +2,8 @@
 layout: strategy
 title: Create a Concrete Goal
 position: 1
-aside: Remember that goals can build on each other like blocks. Keep it simple to keep you motivated!
+aside: >
+  **Remember** that goals can build on each other like blocks. Keep it simple to keep you motivated!
 ---
 
 # Create a Concrete Goal

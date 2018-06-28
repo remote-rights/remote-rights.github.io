@@ -2,7 +2,8 @@
 layout: strategy
 title: Make Sure You're Safe
 position: 2
-aside: REMEMBER - Your safety is the most important thing in any situation. If you feel scared, exit the situation and alert an adult as soon as possible.
+aside: >
+ **REMEMBER:** Your safety is the most important thing in any situation. If you feel scared, exit the situation and alert an adult as soon as possible.
 ---
 
 # Make Sure You’re Safe
@@ -11,7 +12,7 @@ Sometimes, advocacy can open us up to unwanted attention. Being vocal about the 
 
 ## 1. Protect Your Mental Health
 
-- Check in with yourself to make sure you're not feeling overwhelmed. Keep a journal to keep track of how you're feeling. Check out our resources page for more info!
+- Check in with yourself to make sure you're not feeling overwhelmed. Keep a journal to keep track of how you're feeling. Check out our [Resources Page](/resources) for more info!
 
 - Ask for help if you do feel overwhelmed. People who care about you always want to help!
 
@@ -25,7 +26,8 @@ Sometimes, advocacy can open us up to unwanted attention. Being vocal about the 
 ## 3. Always Plan Ahead
 
 - Always bring someone with you when you are going to talk about your cause in public.
-- Do research before you go to protests. Talk to someone you know who's been to them in your area. What are the safety issues involved in protesting where you live?
+- Do research before you go to protests. Talk to someone you know who's been to them in your area.
+- What are the safety issues involved in protesting where you live?
 - When considering going to a protest, some useful safety questions to ask are:
   * _Is the protest legal?_
   * _Will there be counter-protesters?_
