@@ -22,7 +22,7 @@
           {% for collection in my_collections %}
             {% assign name = collection.label %}
             <li class="nav-item dropdown">
-              <a href="{{ "#change" | base_url }}" class="nav-link dropdown-toggle" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+              <a href="{{ "#{{ name }}" | base_url }}" class="nav-link dropdown-toggle" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
                 {{ collection.title }}
               </a>
               <div class="dropdown-menu" aria-labelledby="navbarDropdown">

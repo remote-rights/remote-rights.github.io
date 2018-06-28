@@ -3,13 +3,11 @@ layout: strategy
 title: Mainstream Media 101
 position: 7
 aside: >
-  **Remember that you have the right to:**
-
-  - Accept or refuse to do an interview
-
-  - Know how the interview will be used
-  
-  - End the interview Be treated with respect
+  Remember that you have the right to:
+  * Accept or refuse to do an interview
+  * Know how the interview will be used
+  * End the interview
+  * Be treated with respect
 ---
 # Mainstream Media 101
 
