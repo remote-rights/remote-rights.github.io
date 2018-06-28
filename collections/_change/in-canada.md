@@ -1,10 +1,7 @@
 ---
 layout: change
-title: Canada
+title: In Canada
 image: "/assets/img/change/in-canada.jpg"
 pdf: "/assets/pdf/change/in-canada.pdf"
-asides:
-  - title: "What does the Canadian government do?"
-    content: "The Canadian (or federal government) is in charge of things like: what counts as a crime or not; national security; Indigenous issues; and citizenship and immigration issues."
 ---
-Three branches work together to govern Canada: the Executive, Legislative, and Judicial branches.
+Three branches work together to govern Canada: the executive, legislative, and judicial branches. The legislative branch is the law-making branch of government. The executive branch proposes laws and makes decisions about how to run the country. The judicial branch is a series of independent courts that interpret the laws passed by the other two branches.

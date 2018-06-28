@@ -2,13 +2,7 @@
 <div class="h2">{{ page.title }}</div>
 <div class="row justify-content-around">
   <div class="col-md-12">
-  {{ page.content }}
-  {% for aside in page.asides %}
-    <aside>
-      <h3>{{ aside.title }}</h3>
-      {{ aside.content }}
-    </aside>
-  {% endfor %}
+  {{ content }}
   </div>
   <div class="row justify-content-around">
     <div class="col-md-8">
