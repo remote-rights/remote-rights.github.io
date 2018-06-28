@@ -6,7 +6,7 @@ position: 8
 
 # Contact the Decision Makers
 
-Is there an organization, business, or government authority who could help you achieve your goals? Go to the Places Wheel to find out more about who the leaders are in different environments. Once you've figured out who the decision makers are, here are some tips on when and how to get in touch with them!
+Is there an organization, business, or government authority who could help you achieve your goals? Go to the [Places Wheel](/places) to find out more about who the leaders are in different environments. Once you've figured out who the decision makers are, here are some tips on when and how to get in touch with them!
 
 ## Is it time yet?
 It can be a good strategy to put your message out there a bit before trying to meet with a decision maker. You know how you’d rather meet a celebrity than someone you’ve never heard of? Decision makers feel the same way. They might be more inclined to meet with people who have already gotten some public attention for their cause.
