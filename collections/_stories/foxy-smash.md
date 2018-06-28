@@ -2,7 +2,7 @@
 layout: stories
 title: FOXY/SMASH
 location: Northwest Territories
-position: 5
+position: 6
 ---
 ## Making sexual education fun and accessible
 
