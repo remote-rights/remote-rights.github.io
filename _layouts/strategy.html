@@ -3,10 +3,11 @@
 <div class="row justify-content-around">
   <div class="col-md-12">
   {{ page.content }}
-
-    <aside>
-      {{ aside.content }}
-    </aside>
+    <div style="color:blue; background-color: yellow;">
+      <aside>
+        {{ page.aside | markdownify }}
+      </aside>
+    </div>
   </div>
 </div>
 {% include foot.html %}
