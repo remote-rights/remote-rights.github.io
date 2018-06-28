@@ -1,6 +1,7 @@
 ---
 layout: stories
-title: Nekiiyaa Noakes, Manitoulin Island, Ontario
+title: Nekiiyaa Noakes
+location: Manitoulin Island, Ontario
 position: 3
 ---
 

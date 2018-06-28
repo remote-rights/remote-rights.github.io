@@ -1,7 +1,8 @@
 ---
 layout: stories
-title: Shannen’s Dream, Attawapiskat, Ontario
-position: 3
+title: Shannen’s Dream
+location: Attawapiskat, Ontario
+position: 4
 ---
 
 ## Equitable and Culturally Appropriate Education for All

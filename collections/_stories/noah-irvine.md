@@ -1,6 +1,7 @@
 ---
 layout: stories
-title: Noah Irvine, Guelph, Ontario
+title: Noah Irvine
+location: Guelph, Ontario
 position: 1
 ---
 ## Mental Health in Canada
