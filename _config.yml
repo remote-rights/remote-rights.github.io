@@ -4,20 +4,23 @@ title: Remote Rights Advocacy Toolkit
 collections_dir: collections
 collections:
   change:
-    title: Jurisdictional Charts
+    title: Change 
     output: true
     permalink: /:collection/:title
     custom: true
+    position: 1
 
   strategy:
     title: Advocacy Strategies
     output: true
     permalink: /:collection/:title
     custom: true
+    position: 2
 
   stories:
     title: Featured Stories
     output: true
     permalink: /:collection/:title
     custom: true
+    position: 3
 
