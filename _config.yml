@@ -3,8 +3,8 @@ title: Remote Rights Advocacy Toolkit
 
 collections_dir: collections
 collections:
-  change:
-    title: Change 
+  people-places:
+    title: People & Places 
     output: true
     permalink: /:collection/:title
     custom: true

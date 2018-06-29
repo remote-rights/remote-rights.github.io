@@ -218,7 +218,7 @@ Manitoba Independent Investigation Unit: [iiumanitoba.ca/](http://www.iiumanitob
 
 ### New Brunswick
 
-New Brunswick Police Commission: [app.infoaa.7700.gnb.ca/gnb/pub/DetailOrgEng1.asp?OrgID1=160&DeptID1=79](http://app.infoaa.7700.gnb.ca/gnb/pub/DetailOrgEng1.asp?OrgID1=160&DeptID1=79)
+New Brunswick Police Commission: [https://www.nbpolicecommission.ca](https://www.nbpolicecommission.ca)
 
 ### Newfoundland and Labrador
 
@@ -285,5 +285,5 @@ A space where youth can get information, resources and tools to manage stress, c
 ### Mental Health First Aid Canada
 A good list of resources for all sorts of questions related to mental health - [mentalhealthfirstaid.ca/en/faqs-resources/resources](http://www.mentalhealthfirstaid.ca/en/faqs-resources/resources)
 
-Teenmentalhealth.org:
+### Teenmentalhealth.org:
 Mental health information addressing the needs of youth (ages 12 to 25 years), families, educators, health providers, policy makers and others. [teenmentalhealth.org](http://teenmentalhealth.org/)

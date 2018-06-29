@@ -1,5 +1,5 @@
 ---
-layout: change
+layout: people-places
 title: In My Metis Nation
 image: "/assets/img/change/in-canada.jpg"
 pdf: "/assets/pdf/change/in-canada.pdf"
