@@ -4,9 +4,30 @@ title: Key Terms
 permalink: key-terms.html
 ---
 
-## The Big Ideas
+## What does Advocacy Mean?
 
-### Civil Liberties
+Advocacy is when we speak up for our rights. 
+
+Advocates work to:
+* Make sure that everyone's rights are respected and protected.
+* Make sure that everyone can live their lives with freedom and dignity.
+* Change unfair laws, rules, and policies.
+* Make sure that our land stays safe and clean.
+* Make sure that everyone is free to speak up and be heard.
+
+### Anyone can be an advocate for themselves or for someone else.
+
+You just need to make sure you have the right information before you get started. That’s where this toolkit, and other ways of educating yourself, come in!
+
+### Some people's jobs include advocating for someone else.
+
+You probably know lots of people in your community who are advocates for your rights like: youth workers, community centre staff, teachers, principals, doctors and nurses, chiefs, and lawyers.
+
+## Key Terms
+
+### The Big Ideas
+
+#### Civil Liberties
 
 Civil liberties are some of the rights that you would want from a government in a democracy. The following are some rights that are called “civil liberties”. The Canadian government owes these rights to anyone in its borders:
 - Freedom of expression
@@ -23,7 +44,7 @@ Civil liberties are some of the rights that you would want from a government in 
 - Protection against  being arrested for no reason
 - Protection against racial or religious hatred.
 
-### Human Rights
+#### Human Rights
 
 Human rights are rights that you are entitled to simply because you are a human being. Every single person, no matter where they live or who they are, has human rights.
 
@@ -40,19 +61,19 @@ Some of the human rights listed in the Declaration, aside from the civil liberti
 - The right to belong to a country.
 - All adults have the right to work, have a fair wage, and be part of a union.
 
-### Discrimination:
+#### Discrimination:
 
 Unfair treatment of a person or group for any reason such as gender identity, belonging to a particular race or religion or having different abilities, and so on. When people are discriminated against, they cannot enjoy their rights.
 
 E.g.: Discrimination against girls and women means directly or indirectly treating girls and women differently from boys and men in a way which prevents them from enjoying their rights.
 
-### Equality:
+#### Equality:
 
 Despite the fact that people differ in race, religion, gender, class, talent, and ability, they are all equal in dignity.  No one is more or less important than anyone else.
 
 Sometimes, in order to ensure that everyone’s dignity is respected, people have to be treated unequally - like when schools have additional programming for youth with learning disabilities. This is also called equity.
 
-### Rights Of The Child:
+#### Rights Of The Child:
 
 Children’s rights are human rights for children.
 
@@ -78,35 +99,35 @@ The rights in the Convention on the Rights of the Child include:
 - No one is allowed to punish you in a cruel or harmful way.
 
 
-### Intersectionality:
+#### Intersectionality:
 
 Intersecting identities such as age, gender, gender identity, ethnicity, class, race, social status, immigration status, sexual identity, and experiences with authority and violence all shape our individual uniqueness and inform our complicated relationships with power, privilege and oppression.
 
 Intersectionality invites us to value and strive to understand the individualism of those around us rather than make assumptions.
 
 
-### Oppression:
+#### Oppression:
 
 The systematic subjugation (bringing someone under domination or control) of one social group by a more powerful social group for the social, economic, and political benefit of the more powerful social group.
 
 Oppression = Power +Prejudice
 
-### Anti-Oppression:
+#### Anti-Oppression:
 
 The journey of acknowledging and addressing individual, collective, and systemic biases, while working to recognize each individual as a wholly unique person. This journey should lead to creating a space where respect and self-determination are encouraged.
 
-### Youth:
+#### Youth:
 
 Anyone who self-identifies as a youth.
 
-### Ally:
+#### Ally:
 
 A person who is a member of an advantaged social group who, following the lead of oppressed communities, takes a stand against oppression, works to eliminate oppressive attitudes and beliefs in themself and their communities, and works to understand their own privilege.
 
 
-## Other Important Legal Terms
+### Other Important Legal Terms
 
-### Family Law Terms:
+#### Family Law Terms:
 
 **Agreement (sometimes also called a contract)**: An agreement, verbal or written, between your parents. In a family law situation the agreement might include such things as where you will live, how much time you will spend with each parent and the rights and duties of your parents to you and to each other.
 
@@ -137,7 +158,7 @@ Court Application: When your parents cannot agree on an issue and ask a judge to
 
 **Visitation**: The time you spend with the parent you don’t live with, also called access.
 
-### Human Rights and Discrimination Legal Terms
+#### Human Rights and Discrimination Legal Terms
 
 **Application**: The document that begins a human rights claim. The application asks you to explain what happened to you, why you believe it is discrimination, and what you want the Tribunal to order against the person and/or organization who you claim is responsible for the discrimination.
 
@@ -159,7 +180,7 @@ Court Application: When your parents cannot agree on an issue and ask a judge to
 
 **Human Rights Commission**: In each province and territory, there are commissions that provide leadership for the protection and advancement of human rights. If you think you are being discriminated against, you can often contact your provincial or territorial human rights commission to find out more information about what to do. There is also a Canadian human rights commission, for when workplaces, or the service being provided, falls under the responsibility of the federal government. For more information about the differences between provincial and federal human rights commissions, see the CCLA’s Frequently Asked Question on the topic.
 
-### General Legal terms (Including Criminal Law Terms)
+#### General Legal terms (Including Criminal Law Terms)
 
 **Accused**: A person charged with a crime.
 
