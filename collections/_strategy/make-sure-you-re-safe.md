@@ -2,8 +2,10 @@
 layout: strategy
 title: Make Sure You're Safe
 position: 2
-aside: >
- **REMEMBER:** Your safety is the most important thing in any situation. If you feel scared, exit the situation and alert an adult as soon as possible.
+aside: |
+ **REMEMBER:** <br>
+ _Your safety is the most important thing in any situation. If you feel scared, exit the situation and alert an adult as soon as possible._
+ 
 ---
 
 # Make Sure You’re Safe

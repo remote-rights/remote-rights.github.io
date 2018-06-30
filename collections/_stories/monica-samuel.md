@@ -1,11 +1,11 @@
 ---
 layout: stories
-title: Creating Safe Places for Women of Colour
+title: Monica Samuel
 location: Toronto, Ontario
+subtitle: Creating Safe Places for Women of Colour
+image: /assets/img/stories/monica-samuel.jpg
 position: 7
 ---
-## Monica Samuel, _Black Women in Motion Founder and Program Director_
-
 ### The Opportunity:
 Monica Samuel spent her high school years in Toronto working full-time and trying to qualify for all possible scholarships. She had to contribute to expenses at home, and was also saving up for university. Working so hard in school and at a full-time job, Monica didn’t feel like she got to have a real adolescence. She felt alone and disconnected from her culture and community. But there were Black women along her journey who encouraged and supported her, and it’s because of those women that she didn’t give up on herself.
 

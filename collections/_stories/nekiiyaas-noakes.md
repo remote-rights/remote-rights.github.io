@@ -2,10 +2,9 @@
 layout: stories
 title: Nekiiyaa Noakes
 location: Manitoulin Island, Ontario
+subtitle: Confronting Racism in School
 position: 3
 ---
-
-## Confronting Racism in School
 
 ### What needed to change:
 Nekiiyaa Noakes, a Grade 11 Anishnaabe student on Manitoulin Island in Ontario, was sitting in her high school’s office when she overheard one office staff member make a racist comment about Indigenous youth to another staff member. The person who’d made the remark didn’t notice that Nekiiyaa was in the room.
