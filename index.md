@@ -1,21 +1,19 @@
 ---
 layout: home
-title: What does advocacy mean?
-subtitle: Advocacy is when we speak up for our rights.
+title: Advocacy Toolkit
+subtitle: Be The Change. Defend Your Rights.
 ---
 
-Advocates work to:
-* Make sure that everyone's rights are respected and protected.
-* Make sure that everyone can live their lives with freedom and dignity.
-* Change unfair laws, rules, and policies.
-* Make sure that our land stays safe and clean.
-* Make sure that everyone is free to speak up and be heard.
+Is there something you want to change? [What does advocacy mean anyway](/key-terms.html#what-does-advocacy-mean)? This is a guide to help you be the change and defend your rights.
 
+How to use this toolkit:
 
-## Anyone can be an advocate for themselves or for someone else.
+There is something I want to change...
+In every place, there are people who can help you make change. Go to People & Places to learn about leaders and allies in different environments.
 
-You just need to make sure you have the right information before you get started. That’s where this toolkit, and other ways of educating yourself, come in!
+If there is something i want to change, what can i do?
+How do you change something that's not fair? Go to  Take Action to learn what to do first, and to get ideas about how to build an action plan that works for you!
 
-## Some people's jobs include advocating for someone else.
+Feature Stories
 
-You probably know lots of people in your community who are advocates for your rights like: youth workers, community centre staff, teachers, principals, doctors and nurses, chiefs, and lawyers.
+Throughout the toolkit you'll find Feature Stories about youth who took action on issues important to them. Learn about what they wanted to change, and how they did it!

@@ -3,6 +3,14 @@
 # only Main files contain this front matter, not partials.
 ---
 
+$orange:       #EEA902;
+$teal:       #3588A0;
+$robins-egg: #ADDFEE;
+
+$primary: $teal;
+$secondary: $robins-egg;
+$header-color: $orange;
+
 @import "bootstrap/bootstrap";
 
 .container {
@@ -19,3 +27,60 @@
   padding-top: 1rem;
   padding-bottom: 1rem;
 }
+
+.jumbotron {
+  height: 500px;
+  position: relative;
+
+  .title {
+    color: $header-color;
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    padding-left: 1rem;
+    background: rgba($primary, 0.9);
+    border-bottom-left-radius: $border-radius;
+    border-bottom-right-radius: $border-radius;
+  }
+
+  h1 {
+    font-size: 3rem;
+    font-weight: bold;
+  }
+
+  .lede {
+    font-size: 2rem;
+  }
+}
+
+@include media-breakpoint-down(sm) { 
+  .jumbotron {
+    height: 300px;
+  }
+}
+
+@include media-breakpoint-down(sm) {
+  .jumbotron .title {
+    top: 0;
+  }
+}
+
+.jumbotron.intro {
+  background: url(/assets/img/home-page-rally.jpg);
+  background-position: bottom;
+  background-size: cover;
+}
+
+.jumbotron.people-places {
+  background: url(/assets/img/home-page-microphones.jpg);
+  background-position: bottom;
+  background-size: cover;
+}
+
+.jumbotron.strategy {
+  background: url(/assets/img/home-page-students.jpg);
+  background-position: bottom;
+  background-size: cover;
+}
+

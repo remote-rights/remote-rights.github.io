@@ -1,14 +1,12 @@
-  <div class="jumbotron">
-    <h1 class="h2">{{ page.title }}</h1>
-    <p class="lead">{{ page.subtitle }}</p>
+<div class="jumbotron intro">
+  <div class="title">
+    <h1>{{ page.title }}</h1>
+    <p class="lede"><strong>{{ page.subtitle }}</strong></p>
   </div>
+</div>
 
-  <div class="row body">
-    <div class="col">
-      {{ page.content | markdownify }}
-      <blockquote class="blockquote">
-        <p class="mb-0">My friends, how desperately we need to be loved and to love. With it we are creative. With it, we march tirelessly. With it, and with it alone, we are able to sacrifice for others.</p>
-        <footer class="blockquote-footer">Chief Dan George, <cite title="First Nations Chief">First Nations Chief</cite></footer>
-      </blockquote>
-    </div>
+<div class="row justify-content-center">
+  <div class="col-lg-10">
+    {{ page.content | markdownify }}
   </div>
+</div>

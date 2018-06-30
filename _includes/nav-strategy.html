@@ -1,0 +1,20 @@
+<li class="nav-item dropdown">
+  <a href="{{ '#'name | base_url }}" class="nav-link dropdown-toggle" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+    {{ collection.title }}
+  </a>
+  <div class="dropdown-menu" aria-labelledby="navbarDropdown">
+    {% assign pages = site[name] | sort: "position" %}
+    {% assign essential = pages | slice: 0, 3 %}
+    <h6 class="dropdown-header">Crucial</h6>
+    {% for page in essential %}
+      <a class="dropdown-item" href="{{ page.url | base_url }}">{{ page.title }}</a>
+    {% endfor %}
+    <div class="dropdown-divider"></div>
+    {% assign count = pages | size | minus: 1 %}
+    {% assign optional = pages | slice: 3, count %}
+    <h6 class="dropdown-header">Further Actions</h6>
+    {% for page in optional %}
+      <a class="dropdown-item" href="{{ page.url | base_url }}">{{ page.title }}</a>
+    {% endfor %}
+  </div>
+</li>
