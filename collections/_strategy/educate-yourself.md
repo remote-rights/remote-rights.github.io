@@ -3,13 +3,12 @@ layout: strategy
 title: Educate Yourself
 position: 3
 aside: If you don't know where to start, ask a librarian at your library
+aside_links: |
+  **Read More** about educating yourself in [Maayan's Story](/stories/maayan-ziv) and [Creating Change in the World](/people-places/in-the-world)
 ---
-
-# Educate Yourself
-
 <!-- Side bubble: If you don't know where to start, ask a librarian at your library! -->
 
-## Learn About Your Issue
+### Learn About Your Issue
 
 **Ask yourself:**
 - How long has this been a problem?
@@ -29,11 +28,11 @@ aside: If you don't know where to start, ask a librarian at your library
 It's important to learn more so you can figure out how you want to get involved!
 
 
-## Check Your Sources
+### Check Your Sources
 
 Be wary of false news sites. Always check the ‘About Us’ area on a website to learn about the organization. Look for unusual domain names, and read multiple news sources to see how others are reporting on the same story.
 
 
-## Get Stronger and Smarter
+### Get Stronger and Smarter
 
 Look for opportunities to become a better leader! There are always webinars and youth leadership conferences in your province/territory. There is lots of online literature to teach you how to lead for your cause! Check out our [Resources Page](/resources) to learn more.
