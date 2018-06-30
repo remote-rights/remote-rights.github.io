@@ -5,7 +5,8 @@ position: 2
 aside: |
  **REMEMBER:** <br>
  _Your safety is the most important thing in any situation. If you feel scared, exit the situation and alert an adult as soon as possible._
- 
+aside_links: |
+  **Read More** about creating change in [Your Community](/people-places/in-my-community) and keeping yoursef safe in [Candice and Nancy's Story](/stories/foxy-smash)
 ---
 
 # Make Sure You’re Safe
