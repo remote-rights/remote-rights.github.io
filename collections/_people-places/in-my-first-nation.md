@@ -3,7 +3,9 @@ layout: people-places
 title: In My First Nation
 image: "/assets/img/change/in-canada.jpg"
 pdf: "/assets/pdf/change/in-canada.pdf"
+aside_links: |
+  **Read More** about creating change by [Creating a Concrete Goal](/strategy/create-a-concrete-goal) and [Shannen's Story](/stories/shannens-dream)
 position: 7
 ---
 
-Councils and Councils of Elders are often the leadership authorities in a First Nation. A band council or custom council passes laws for the First Nation, called by-laws. To learn more about a First Nation's leadership structure, check out its website. 
+Councils and Councils of Elders are often the leadership authorities in a First Nation. A band council or custom council passes laws for the First Nation, called by-laws. To learn more about a First Nation's leadership structure, check out its website.

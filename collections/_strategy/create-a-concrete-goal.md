@@ -4,6 +4,9 @@ title: Create a Concrete Goal
 position: 1
 aside: >
   **Remember** that goals can build on each other like blocks. Keep it simple to keep you motivated!
+aside_links: |
+  **Read More** about creating change in [Your First Nation](/people-places/in-my-first-nation) and [Shannen's Story](/stories/shannens-dream)
+
 ---
 
 # Create a Concrete Goal
