@@ -1,8 +1,8 @@
 ---
 layout: stories
-title: Creating Safe Places for Women of Colour
+title: Monica Samuel
 location: Toronto, Ontario
-subtitle: Monica Samuel, Black Women in Motion Fouder and Program Director
+subtitle: Creating Safe Places for Women of Colour
 image: /assets/img/stories/monica-samuel.jpg
 position: 7
 ---
