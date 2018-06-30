@@ -2,10 +2,9 @@
 layout: stories
 title: Shannen’s Dream
 location: Attawapiskat, Ontario
+subtitle: Equitable and Culturally Appropriate Education for All
 position: 4
 ---
-
-## Equitable and Culturally Appropriate Education for All
 
 ### What needed to change:
 Shannen Koostachin, a Mushkego Innanu James Bay Cree, grew up in Attawapiskat First Nation in northern Ontario. In 2000, when she was in kindergarten, her elementary school was closed because the ground underneath it was contaminated. Students were moved into freezing, moldy portables, and the federal government promised to build a new school.
