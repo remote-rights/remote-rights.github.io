@@ -1,6 +1,8 @@
 ---
 layout: strategy
 title: Contact Decision Makers
+aside_links: |
+  **Read More** about creating change [In Your Family](/people-places/in-my-family) and in [Noah's Story](/stories/noah-irvine)
 position: 8
 ---
 
