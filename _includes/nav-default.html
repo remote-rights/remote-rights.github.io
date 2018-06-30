@@ -1,0 +1,11 @@
+<li class="nav-item dropdown">
+  <a href="{{ '#'name | base_url }}" class="nav-link dropdown-toggle" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+    {{ collection.title }}
+  </a>
+  <div class="dropdown-menu" aria-labelledby="navbarDropdown">
+    {% assign pages = site[name] | sort: "position" %}
+    {% for page in pages %}
+      <a class="dropdown-item" href="{{ page.url | base_url }}">{{ page.title }}</a>
+    {% endfor %}
+  </div>
+</li>

@@ -23,6 +23,11 @@ You just need to make sure you have the right information before you get started
 
 You probably know lots of people in your community who are advocates for your rights like: youth workers, community centre staff, teachers, principals, doctors and nurses, chiefs, and lawyers.
 
+<blockquote class="blockquote">
+  <p class="mb-0">My friends, how desperately we need to be loved and to love. With it we are creative. With it, we march tirelessly. With it, and with it alone, we are able to sacrifice for others.</p>
+  <footer class="blockquote-footer">Chief Dan George, <cite title="First Nations Chief">First Nations Chief</cite></footer>
+</blockquote>
+
 ## Key Terms
 
 ### The Big Ideas

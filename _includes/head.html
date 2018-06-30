@@ -11,29 +11,5 @@
 
   </head>
   <body>
-    <nav class="navbar navbar-expand-lg navbar-dark bg-primary">
-      <a class="navbar-brand" href="{{ site.url }}">{{ site.title }}</a>
-      <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
-        <span class="navbar-toggler-icon"></span>
-      </button>
-      <div class="collapse navbar-collapse" id="navbarSupportedContent">
-        <ul class="navbar-nav mr-auto">
-          {% assign my_collections = site.collections | where: "custom", true | sort: "position" %}
-          {% for collection in my_collections %}
-            {% assign name = collection.label %}
-            <li class="nav-item dropdown">
-              <a href="{{ '#'name | base_url }}" class="nav-link dropdown-toggle" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
-                {{ collection.title }}
-              </a>
-              <div class="dropdown-menu" aria-labelledby="navbarDropdown">
-                {% for page in site[name] %}
-                  <a class="dropdown-item" href="{{ page.url | base_url }}">{{ page.title }}</a>
-                {% endfor %}
-              </div>
-            <div class="dropdown-menu"></div>
-            </li>
-          {% endfor %}
-        </ul>
-      </div>
-    </nav>
+    {% include nav.html %}
     <div class="container">

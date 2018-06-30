@@ -1,6 +1,6 @@
 ---
 layout: strategy
-title: Contact Decision Makers
+title: Organize A Protest
 position: 9
 ---
 # Organize a Protest
