@@ -9,10 +9,10 @@ Is there something you want to change? [What does advocacy mean anyway](/key-ter
 How to use this toolkit:
 
 There is something I want to change...
-In every place, there are people who can help you make change. Go to People & Places to learn about leaders and allies in different environments.
+In every place, there are people who can help you make change. Go to <a href="/#people-places">People & Places</a> to learn about leaders and allies in different environments.
 
 If there is something i want to change, what can i do?
-How do you change something that's not fair? Go to  Take Action to learn what to do first, and to get ideas about how to build an action plan that works for you!
+How do you change something that's not fair? Go to <a href="/#strategy">Take Action</a> to learn what to do first, and to get ideas about how to build an action plan that works for you!
 
 Feature Stories
 
