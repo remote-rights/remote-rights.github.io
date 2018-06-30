@@ -3,6 +3,8 @@ layout: people-places
 title: In My Non-Indigenous School
 image: "/assets/img/change/in-canada.jpg"
 pdf: "/assets/pdf/change/in-canada.pdf"
+aside_links: |
+  **Resources:**    [School boards by province/territory](/resources#3-school-boards-by-province-and-territory) 
 position: 1
 ---
 
