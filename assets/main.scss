@@ -54,7 +54,7 @@ $header-color: $orange;
   }
 }
 
-@include media-breakpoint-down(sm) { 
+@include media-breakpoint-down(sm) {
   .jumbotron {
     height: 300px;
   }
@@ -84,3 +84,7 @@ $header-color: $orange;
   background-size: cover;
 }
 
+.story.image {
+  max-width: 400px;
+  padding-right: 3rem
+}

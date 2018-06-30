@@ -1,13 +1,11 @@
 ---
 layout: stories
 title: Maple Spring//Printemps Érable
+subtitle: Student Strikes in Québec
+photo_credit: Photo Credit - McGill Tribune
+image: /assets/img/stories/quebec-student-strikes.jpg
 position: 2
 ---
-
-## Student Strikes in Québec
-
-_Photo Credit: McGill Tribune_
-
 ### What needed to change:
 
 In March 2011, the Québec provincial government announced that it was going to raise university tuition fees significantly over the next five years.

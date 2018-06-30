@@ -2,10 +2,10 @@
 layout: stories
 title: Noah Irvine
 location: Guelph, Ontario
+image: /assets/img/stories/noah-irvine.png
+subtitle: Mental Health in Canada
 position: 1
 ---
-## Mental Health in Canada
-
 ### What needed to change:
 
 Noah Irvine, a high school student in Guelph, Ontario, lost his mother to suicide when he was 5 years old. When Noah was 15, his father died of a prescription drug overdose after a long battle with mental illness. Through the death of his parents, Noah experienced firsthand the tragic realities of Canada’s suicide crisis, and the ways our health-care system fails people with mental illness.

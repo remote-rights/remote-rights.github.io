@@ -2,10 +2,9 @@
 layout: stories
 title: Trans Tipping Point Project
 location: Victoria, British Columbia
+subtitle: Changing Legislation to be Trans Inclusive
 position: 8
 ---
-## Changing Legislation to be Trans Inclusive
-
 ### What needed to change:
 Astrid Neilson-Miller, a gender-fluid high school student in Victoria, B.C., read through B.C.’s laws on information privacy and realized that the language wasn’t right. The two laws – the _Freedom of Information and Protection of Privacy Act_, and the _Personal Information Protection Act_ – both use “he or she” over a dozen times, language that Astrid thought was inefficient and did not properly protect all people.
 

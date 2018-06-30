@@ -2,11 +2,12 @@
 layout: stories
 title: FOXY/SMASH
 location: Northwest Territories
+subtitle: Making sexual education fun and accessible
+photo_credit: Photos courtesy of Kayley Inuksuk Mackay
+image: /assets/img/stories/nancy-macneill.jpg
+image_2: /assets/img/stories/candice-lys.jpg
 position: 6
 ---
-## Making sexual education fun and accessible
-
-_Photos courtesy of Kayley Inuksuk Mackay_
 
 ### What needed to change:
 Candice Lys and Nancy MacNeill both grew up in the Northwest Territories. For Candice, sexual health education in school consisted of a junior high school teacher silently labelling images of male and female genitalia, while Nancy got some factual, science-based information from a school nurse.

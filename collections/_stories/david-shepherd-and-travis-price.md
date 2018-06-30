@@ -2,13 +2,10 @@
 layout: stories
 title: David Shepherd & Travis Price
 location: Cambridge, Nova Scotia
+subtitle: International Day of Pink - Bullying in School
+image: /assets/img/stories/pink.png
 position: 5
 ---
-
-## International Day of Pink
-## Bullying in School
-
-
 ### What needed to change:
 One day in their high school, David Shepherd and Travis Price, two high school students in Cambridge, Nova Scotia, saw a Grade 9 boy being bullied for wearing a pink shirt. The bullies were calling the Grade 9 boy gay because of his shirt, and were threatening to beat him up. David and Travis recognized that expressing yourself as anything other than a stereotypical heterosexual can make you a target for bullying, and they wanted to put a stop to that.
 
