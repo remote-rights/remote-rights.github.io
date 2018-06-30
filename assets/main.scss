@@ -49,7 +49,7 @@ $header-color: $orange;
     font-weight: bold;
   }
 
-  .lede {
+  .lead {
     font-size: 2rem;
   }
 }
@@ -57,12 +57,19 @@ $header-color: $orange;
 @include media-breakpoint-down(sm) { 
   .jumbotron {
     height: 300px;
-  }
-}
 
-@include media-breakpoint-down(sm) {
-  .jumbotron .title {
-    top: 0;
+    .title {
+      top: 0;
+      border-radius: $border-radius;
+    }
+  }
+
+  h1 {
+    font-size: 2.5rem;
+  }
+
+  .lead {
+    font-size: 1.75rem;
   }
 }
 
