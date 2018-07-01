@@ -1,6 +1,16 @@
 {% include head.html %}
-<div class="jumbotron stories-header">
-  <div class="row">
+<div class="jumbotron stories-header" >
+  <div class="row" >
+    {% if page.image %}
+    <div class="col-md-4" >
+      {% if page.image_2 %}
+      <img class="img-fluid rounded" src="{{ page.image }}" >
+      <img class="img-fluid rounded" src="{{ page.image_2 }}" >
+      {% else %}
+      <img class="img-fluid rounded" src="{{ page.image }}" >
+      {% endif %}
+    </div>
+    {% endif %}
     <div class="col-md-8">
       <div class="title">
         <h1 class="mb-0">{{ page.title }}</h1>
@@ -8,10 +18,21 @@
         <h2>{{ page.subtitle }}</h2>
       </div>
     </div>
-    <div class="col-md-4">
-      <img class="img-fluid rounded" src="{{ page.image }}" >
-    </div>
   </div>
 </div>
+ <!-- <div class="card" >
+  {% if page.image %}
+  <img class="card-img-top" src="{{ page.image }}" alt="Card image cap">
+  {% endif %}
+  <div class="card-body">
+    <div class="title">
+      <h1 class="mb-0">{{ page.title }}</h1>
+      <p class="lead mb-0"><em>{{ page.location }}</em></p>
+      <h2>{{ page.subtitle }}</h2>
+    </div>
+    <div class="card-text"> {{page.content}} </div>
+  </div>
+</div> -->
+
 {% include two-column-layout.html %}
 {% include foot.html %}
