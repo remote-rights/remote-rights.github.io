@@ -6,7 +6,6 @@ aside_links: >
   **Get Inspired** [Maple Spring//Printemps Érable Story](/stories/maple-spring-printemps-erable) and [David and Travis' Story](stories/david-shepherd-and-travis-price)
 position: 9
 ---
-# Organize a Protest
 
 A protest can bring a lot of awareness to your cause, and can build excitement and energy too! Here are some tips on how to plan a successful protest:
 
@@ -19,13 +18,13 @@ unless there are safety risks.
 
 For more tips, look up “_how to organize a protest_” online!
 
-### Get the word out with cool slogans and graphics
+## Get the word out with cool slogans and graphics
 
 - Identify who you really want to come to the protest. How do those people get their news? Make sure to advertise the protest in places you know your target audience will see.
 - Design graphics and slogans (and maybe even a hashtag or two) to get people excited about the event. Create slogans, signs, chants, and flyers for the protest. This will help make your event more visible, and will give your protesters something to do! Invite the media to your event.
 - Once the protest is over, follow up online with more messaging and news of further events (even if they're not your events), to keep the energy up!
 
-### Learn about the rules of a public demonstration where you live
+## Learn about the rules of a public demonstration where you live
 
 - The freedom to demonstrate peacefully is a fundamental right in Canada, but make sure your protest remains peaceful and that you don't break any laws while protesting.
 - Your protest could be considered illegal if, for example, it involves violence or vandalism.

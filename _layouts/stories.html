@@ -1,24 +1,17 @@
 {% include head.html %}
-<div class="jumbotron" style="height: 300px; padding: 2rem; color: rgb(53, 136, 160); background-color: rgba(238, 169, 2, 0.9);">
-  <!-- <img class="story image" src="{{ page.image }}" class="rounded" style="float: right; position: relative;"> -->
-<h1>{{ page.title }}</h1>
-<h2 style="font-style: italic;">{{ page.location }}</h2>
-<h2>{{ page.subtitle }}</h2>
-</div>
-
-<div class="row justify-content-around">
-
-  <div class="col-md-10">
-    <div style="color: purple; background-color: yellow;">
-      <aside>
-        {{ page.aside | markdownify }}
-      </aside>
-      <aside>
-        {{ page.aside_links | markdownify }}
-      </aside>
+<div class="jumbotron stories-header">
+  <div class="row">
+    <div class="col-md-8">
+      <div class="title">
+        <h1 class="mb-0">{{ page.title }}</h1>
+        <p class="lead mb-0"><em>{{ page.location }}</em></p>
+        <h2>{{ page.subtitle }}</h2>
+      </div>
     </div>
-  {{ page.content }}
-
+    <div class="col-md-4">
+      <img class="img-fluid rounded" src="{{ page.image }}" >
+    </div>
   </div>
 </div>
+{% include two-column-layout.html %}
 {% include foot.html %}

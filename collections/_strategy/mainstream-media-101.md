@@ -9,9 +9,8 @@ aside: |
   - End the interview
   - Be treated with respect
 ---
-# Mainstream Media 101
 
-### 1. Pros and Cons
+## 1. Pros and Cons
 
 **Pro:** Communicating with the media (CBC, your local or school newspaper, a radio station, podcasts) raises public awareness and can get decision makers to listen to you.
 
@@ -19,7 +18,7 @@ aside: |
 
 **Conclusion:** Talk to people you trust about whether to contact media before you do it.
 
-### 2. Tips for reaching out to mainstream media
+## 2. Tips for reaching out to mainstream media
 
 - _Write a press release:_ A press release is a document that informs people about who you are and what your demands are. You can also use it to tell people about an event you’re planning. There are lots of tips for writing a press release online.
 
@@ -28,7 +27,7 @@ aside: |
 - Make sure to follow up after you’ve sent your email - news agencies get a lot of mail! You can email or call.
 
 
-### 3. Tips if the media reaches out to you
+## 3. Tips if the media reaches out to you
 
 - Return the phone call or message as soon as you can - journalists work on tight deadlines.
 - But before you get back to them, take a minute to breathe and prepare: what are the main ideas that you want the journalist to know?

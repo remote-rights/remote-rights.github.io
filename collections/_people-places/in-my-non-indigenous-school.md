@@ -3,8 +3,10 @@ layout: people-places
 title: In My Non-Indigenous School
 image: "/assets/img/change/in-canada.jpg"
 pdf: "/assets/pdf/change/in-canada.pdf"
+aside_title: Related Resources
 aside_links: |
-  **Read More** about [School Boards](/resources#3-school-boards-by-province-and-territory) and how to [Organize a Protest](/strategy/organize-a-protest)<br>
+  **Read More** about [School Boards](/resources#3-school-boards-by-province-and-territory) and how to [Organize a Protest](/strategy/organize-a-protest)
+  
   **Get Inspired!** [Nekiiyaas' Story](/stories/nekiiyaas-noakes) and [David and Travis' Story](/stories/david-shepherd-and-travis-price) 
 position: 1
 ---

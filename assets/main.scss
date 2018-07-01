@@ -3,95 +3,36 @@
 # only Main files contain this front matter, not partials.
 ---
 
-$orange:       #EEA902;
+$orange:      #EEA902;
 $teal:       #3588A0;
 $robins-egg: #ADDFEE;
 
-$primary: $teal;
-$secondary: $robins-egg;
-$header-color: $orange;
+$theme-colors: (
+  "primary":      $teal,
+  "secondary":    $robins-egg,
+  "header-color": $orange
+);
 
 @import "bootstrap/bootstrap";
+@import "layout";
+@import "home-page";
+@import "aside";
 
-.container {
-  margin-top: 3rem;
+.jumbotron.page-title {
+  background: none;
+  padding: 0;
+  h1 {
+    color: theme-color("primary");
+    border-bottom: 0.9rem solid $orange;
+    display: inline-block;
+    line-height: 0.6;
+  }
 }
 
-.home-section {
-  margin-bottom: 2rem;
-}
-
-.footer {
-  margin-top: 2rem;
-  border-top: 1px solid $primary;
-  padding-top: 1rem;
-  padding-bottom: 1rem;
-}
-
-.jumbotron {
-  height: 500px;
-  position: relative;
-
+.jumbotron.stories-header {
+  padding: 0;
+  background: none;
   .title {
-    color: $header-color;
-    position: absolute;
-    bottom: 0;
-    left: 0;
-    right: 0;
-    padding-left: 1rem;
-    background: rgba($primary, 0.9);
-    border-bottom-left-radius: $border-radius;
-    border-bottom-right-radius: $border-radius;
+    padding-top: 2rem;
   }
-
-  h1 {
-    font-size: 3rem;
-    font-weight: bold;
-  }
-
-  .lead {
-    font-size: 2rem;
-  }
-}
-
-@include media-breakpoint-down(sm) {
-  .jumbotron {
-    height: 300px;
-
-    .title {
-      top: 0;
-      border-radius: $border-radius;
-    }
-  }
-
-  h1 {
-    font-size: 2.5rem;
-  }
-
-  .lead {
-    font-size: 1.75rem;
-  }
-}
-
-.jumbotron.intro {
-  background: url(/assets/img/home-page-rally.jpg);
-  background-position: bottom;
-  background-size: cover;
-}
-
-.jumbotron.people-places {
-  background: url(/assets/img/home-page-microphones.jpg);
-  background-position: bottom;
-  background-size: cover;
-}
-
-.jumbotron.strategy {
-  background: url(/assets/img/home-page-students.jpg);
-  background-position: bottom;
-  background-size: cover;
-}
-
-.story.image {
-  max-width: 400px;
-  padding-right: 3rem
 }

@@ -1,21 +1,27 @@
 {% include head.html %}
-<div class="h2">{{ page.title }}</div>
 <div class="row justify-content-centre">
-  <div class="col-md-12">
-    {{ content }}
-    <div style="color:blue; background-color: yellow;">
-      <aside>
-        {{ page.aside_links | markdownify }}
-      </aside>
-    </div>
+  <div class="col">
+    <h1>{{ page.title }}</h1>
   </div>
-  <div class="row justify-content-around">
-    <div class="col-md-8">
-      <div class="card">
-        <img src="{{ page.image | absolute_url }}" alt="{{ page.title }}" class="card-img-top">
-        <div class="card-body">
-          <a href="{{ page.pdf | absolute_url }}" class="btn btn-primary">View as a PDF</a>
+  <div class="col-md-12">
+    <div class="row">
+      <div class="col-md-8">
+        {{ content }}
+        <div class="card primary">
+          <img src="{{ page.image | absolute_url }}" alt="{{ page.title }}" class="card-img-top">
+          <div class="card-body">
+            <a href="{{ page.pdf | absolute_url }}" class="btn btn-primary">View as a PDF</a>
+          </div>
         </div>
+      </div>
+      <div class="col-md-4">
+        {% if page.aside_links %}
+          <aside class="card border-primary related-links">
+            <div class="card-body">
+              {{ page.aside_links | markdownify }}
+            </div>
+          </aside>
+        {% endif %}
       </div>
     </div>
   </div>

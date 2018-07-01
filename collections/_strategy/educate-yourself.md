@@ -8,7 +8,7 @@ aside_links: |
 ---
 <!-- Side bubble: If you don't know where to start, ask a librarian at your library! -->
 
-### Learn About Your Issue
+## Learn About Your Issue
 
 **Ask yourself:**
 - How long has this been a problem?

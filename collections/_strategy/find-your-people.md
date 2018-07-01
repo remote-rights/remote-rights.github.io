@@ -6,8 +6,6 @@ aside_links: >
 position: 4
 ---
 
-# Find Your People
-
 You can definitely do advocacy without a big group - e.g., you can write a letter to your Member of Parliament all on your own. But if you want to team up to make your message louder, here are some tips to find your people:
 
 

@@ -1,0 +1,21 @@
+<div class="row justify-content-around">
+  <div class="col-md-8">
+    {{ page.content }}
+  </div>
+  <div class="col-md-4 related-links">
+    {% if page.aside %}
+      <aside class="card mb-2">
+        <div class="card-body">
+          {{ page.aside | markdownify }}
+        </div>
+      </aside>
+    {% endif %}
+    {% if page.aside_links %}
+      <aside class="card">
+        <div class="card-body">
+          {{ page.aside_links | markdownify }}
+        </div>
+      </aside>
+    {% endif %}
+  </div>
+</div>

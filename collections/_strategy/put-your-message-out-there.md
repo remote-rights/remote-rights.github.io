@@ -9,7 +9,7 @@ position: 5
 ---
 ## Create some of your own media to demand change
 
-### Depending on what materials you create, you can include a lot of information or a little:
+Depending on what materials you create, you can include a lot of information or a little:
 
 **_A little bit of information can go on..._**
 
@@ -25,14 +25,12 @@ position: 5
 - An online or newspaper article
 - A news interview
 
-
 **_A lot of information can go on..._**
 
 - A website or facebook page
 - A newsletter
 - An advocacy day
 - An information session (in-person or virtual)
-
 
 No matter what you end up making, make sure your materials can answer these questions:
 What are you asking for? Why are you asking for it? How will it benefit everyone?

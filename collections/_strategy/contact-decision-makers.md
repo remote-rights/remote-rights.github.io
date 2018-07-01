@@ -7,8 +7,6 @@ aside_links: |
 position: 8
 ---
 
-# Contact the Decision Makers
-
 Is there an organization, business, or government authority who could help you achieve your goals? Go to <a href="/#people-places">People Places</a> to find out more about who the leaders are in different environments. Once you've figured out who the decision makers are, here are some tips on when and how to get in touch with them!
 
 ## Is it time yet?

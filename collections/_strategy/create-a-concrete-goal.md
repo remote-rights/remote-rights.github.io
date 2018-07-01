@@ -9,8 +9,6 @@ aside_links: |
 
 ---
 
-# Create a Concrete Goal
-
 The best campaign has a specific goal. Create a long-term goal, and then work backwards, creating short terms goals along the way.
 
 ## 1. What is Your Dream Goal?
