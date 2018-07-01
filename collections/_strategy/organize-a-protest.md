@@ -1,6 +1,8 @@
 ---
 layout: strategy
 title: Organize A Protest
+aside_links: >
+  **Read More** about creating change in [Your Province or Territory](/people-places/in-my-province-territory) and organizing protests in the [Maple Spring//Printemps Érable Story](/stories/maple-spring-printemps-erable)
 position: 9
 ---
 # Organize a Protest
