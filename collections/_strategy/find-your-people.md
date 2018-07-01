@@ -1,6 +1,8 @@
 ---
 layout: strategy
 title: Find Your People
+aside_links: >
+  **Read More** about creating change in [Your Community](/people-places/in-my-community) and [Monica's Story](/stories/monica-samuel)
 position: 4
 ---
 

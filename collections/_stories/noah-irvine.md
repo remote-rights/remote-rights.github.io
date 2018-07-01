@@ -4,6 +4,8 @@ title: Noah Irvine
 location: Guelph, Ontario
 image: /assets/img/stories/noah-irvine.png
 subtitle: Mental Health in Canada
+aside_links: |
+  **Read More** about creating change [In Your Family](/people-places/in-my-family) and by [Contacting Decision Makers](/strategy/contact-decision-makers)
 position: 1
 ---
 ### What needed to change:

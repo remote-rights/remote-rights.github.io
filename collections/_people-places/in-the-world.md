@@ -3,6 +3,8 @@ layout: people-places
 title: In the World
 image: "/assets/img/change/in-canada.jpg"
 pdf: "/assets/pdf/change/in-canada.pdf"
+aside_links: |
+  **Read More** about creating global change in [Maayan's Story](/stories/maayan-ziv) and [Educating Yourself](/strategy/educate-yourself)
 position: 3
 ---
 

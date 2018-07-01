@@ -1,13 +1,21 @@
 {% include head.html %}
-<div class="h1">{{ page.title }}</div>
+<div class="jumbotron" style="height: 200px; padding: 2rem; color: rgb(53, 136, 160); background-color: rgba(238, 169, 2, 0.9);">
+  <!-- <img class="story image" src="{{ page.image }}" class="rounded" style="float: right; position: relative;"> -->
+<h1>{{ page.title }}</h1>
+</div>
+
 <div class="row justify-content-around">
-  <div class="col-md-12">
-  {{ page.content }}
+  <div class="col-md-10">
     <div style="color:blue; background-color: yellow;">
       <aside>
         {{ page.aside | markdownify }}
       </aside>
+      <aside>
+        {{ page.aside_links | markdownify }}
+      </aside>
     </div>
+  {{ page.content }}
+
   </div>
 </div>
 {% include foot.html %}

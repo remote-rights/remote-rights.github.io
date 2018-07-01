@@ -6,6 +6,9 @@ subtitle: Making sexual education fun and accessible
 photo_credit: Photos courtesy of Kayley Inuksuk Mackay
 image: /assets/img/stories/nancy-macneill.jpg
 image_2: /assets/img/stories/candice-lys.jpg
+aside_links: |
+ **Read More** about [Keeping Yourself Safe](/strategy/make-sure-you-re-safe) and creating change in [Your Community](/people-places/in-my-community)
+
 position: 6
 ---
 
