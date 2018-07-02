@@ -4,7 +4,7 @@ title: Monica Samuel
 location: Toronto, Ontario
 subtitle: Creating Safe Places for Women of Colour
 image: /assets/img/stories/monica-samuel.jpg
-aside_links: >
+aside_links: |
   **Read More**
 
   [Your Community](/people-places/in-my-community)

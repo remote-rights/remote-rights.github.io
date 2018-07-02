@@ -6,9 +6,7 @@ aside_links: |
 
   [Your Province or Territory](/people-places/in-my-province-territory)
 
-  [Your Indigenous School](/people-places/in-my-indigenous-school)
-
-  [Your Non-Indigenous School](/people-places/in-my-non-indigenous-school)!
+  [Schools](/people-places/schools)
 
 
   **Get Inspired**

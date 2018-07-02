@@ -3,7 +3,7 @@ layout: stories
 title: Trans Tipping Point Project
 location: Victoria, British Columbia
 subtitle: Changing Legislation to be Trans Inclusive
-aside_links: >
+aside_links: |
   **Read More**
 
   [Your Province/Territory](/people-places/in-my-province-territory)

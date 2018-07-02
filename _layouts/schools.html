@@ -1,0 +1,33 @@
+{% include head.html %}
+<div class="row justify-content-centre">
+  <div class="col-md-12">
+    <h1>{{ page.title }}</h1>
+    <ul class="nav nav-pills">
+      {% assign items = site.schools | sort: "position" %}
+      {% for item in items %}
+        {% if item.position == "1" %}
+          <li class="active"><a data-toggle="pill" href="#{{ item.reference }}">{{ item.title }}</a></li>
+        {% else %}
+          <li><a data-toggle="pill" href="#{{ item.reference }}">{{ item.title }}</a></li>
+        {% endif %}
+      {% endfor %}
+    </ul>
+
+    <div class="tab-content">
+      {% assign items = site.schools | sort: "position" %}
+      {% for item in items %}
+        {% if item.position == 1 %}
+          <div id="{{item.reference}}" class="tab-pane active">
+            {% include school-type.html %}
+          </div>
+        {% else %}
+          <div id="{{ item.reference }}" class="tab-pane fade">
+            {% include school-type.html %}
+          </div>
+        {% endif %}
+      {% endfor %}
+    </div>
+
+  </div>
+</div>
+{% include foot.html %}
