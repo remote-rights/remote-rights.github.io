@@ -36,3 +36,22 @@ $theme-colors: (
     padding-top: 2rem;
   }
 }
+
+.home-page-card {
+  border-color: $orange;
+  border-width: 4px;
+  height: 150px;
+  text-align: center;
+
+  a {
+    position: absolute;
+    top: 0;
+    left: 0;
+    height: 100%;
+    width: 100%;
+  }
+
+  a:hover {
+    text-decoration: none;
+  }
+}

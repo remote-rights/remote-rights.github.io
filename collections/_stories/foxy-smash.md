@@ -3,7 +3,7 @@ layout: stories
 title: FOXY/SMASH
 location: Northwest Territories
 subtitle: Making sexual education fun and accessible
-photo_credit: Photo Credit: Kayley Inuksuk Mackay
+photo_credit: "Photo Credit: Kayley Inuksuk Mackay"
 image: /assets/img/stories/nancy-macneill.jpg
 image_2: /assets/img/stories/candice-lys.jpg
 aside_links: |

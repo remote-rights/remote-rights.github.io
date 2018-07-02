@@ -1,0 +1,11 @@
+{% for item in items %}
+  <div class="col-md-3 col-sm-6 my-4">
+    <div class="card home-page-card shadow">
+      <a href="{{ item.url }}">
+        <div class="card-body">
+          <h3 class="card-title mb-0 h4">{{ item.title }}</h5>
+        </div>
+      </a>
+    </div>
+  </div>
+{% endfor %}
