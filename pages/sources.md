@@ -83,3 +83,5 @@ Young people as advocates – your action for change toolkit: International Plan
 
 Youth Activist’s Toolkit, Advocates for Youth
 [https://www.advocatesforyouth.org/storage/advfy/documents/Activist_Toolkit/activisttoolkit.pdf](https://www.advocatesforyouth.org/storage/advfy/documents/Activist_Toolkit/activisttoolkit.pdf)
+
+Publication Date: July 2018
