@@ -5,18 +5,10 @@
 </div>
 <div class="row justify-content-center">
   <div class="col-lg-10">
+    {% assign items = site.people-places | sort: "position" %}
     <div class="row">
-      <div class="col-lg-4">
-        <div class="list-group">
-          {% assign items = site.people-places | sort: "position" %}
-          {% for item in items %}
-            <a class="list-group-item list-group-item-action" href="{{ item.url }}">{{ item.title }}</a>
-          {% endfor %}
-        </div>
-      </div>
-      <div class="col">
-        <p>Checkout <a href="/strategy/contact-decision-makers.html">Contact the Decision Makers</a> for tips on how to approach the leaders and allies in each of these places.</p>
-      </div>
+      {% include home-page-cards.html %}
     </div>
+    <p class="pt-3">Checkout <a href="/strategy/contact-decision-makers.html">Contact the Decision Makers</a> for tips on how to approach the leaders and allies in each of these places.</p>
   </div>
 </div>
