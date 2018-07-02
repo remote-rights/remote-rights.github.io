@@ -7,20 +7,25 @@ collections:
     title: People & Places 
     output: true
     permalink: /:collection/:title
-    custom: true
+    in_nav: true
     position: 1
 
   strategy:
     title: Advocacy Strategies
     output: true
     permalink: /:collection/:title
-    custom: true
+    in_nav: true
     position: 2
 
   stories:
     title: Featured Stories
     output: true
     permalink: /:collection/:title
-    custom: true
+    in_nav: true
     position: 3
+  
+  schools:
+    in_nav: false
+    output: true
+
 
