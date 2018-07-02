@@ -1,9 +1,21 @@
 ---
 layout: strategy
 title: Organize A Protest
-aside_links: >
-  **Read More** about creating change in [Your Province or Territory](/people-places/in-my-province-territory), [Your Indigenous School](/people-places/in-my-indigenous-school) or [Your Non-Indigenous School](/people-places/in-my-non-indigenous-school)! <br>
-  **Get Inspired** [Maple Spring//Printemps Érable Story](/stories/maple-spring-printemps-erable) and [David and Travis' Story](stories/david-shepherd-and-travis-price)
+aside_links: |
+  **Read More**
+
+  [Your Province or Territory](/people-places/in-my-province-territory)
+
+  [Your Indigenous School](/people-places/in-my-indigenous-school)
+
+  [Your Non-Indigenous School](/people-places/in-my-non-indigenous-school)!
+
+
+  **Get Inspired**
+
+  [Maple Spring//Printemps Érable Story](/stories/maple-spring-printemps-erable)
+
+  [David and Travis' Story](stories/david-shepherd-and-travis-price)
 position: 9
 ---
 

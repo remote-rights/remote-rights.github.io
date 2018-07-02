@@ -5,9 +5,17 @@ image: "/assets/img/change/non-indigenous-schools.jpeg"
 pdf: "/assets/pdf/change/non-indigenous-schools.pdf"
 aside_title: Related Resources
 aside_links: |
-  **Read More** about [School Boards](/resources#3-school-boards-by-province-and-territory) and how to [Organize a Protest](/strategy/organize-a-protest)
-  
-  **Get Inspired!** [Nekiiyaas' Story](/stories/nekiiyaas-noakes) and [David and Travis' Story](/stories/david-shepherd-and-travis-price) 
+  **Read More**
+
+  [School Boards](/resources#3-school-boards-by-province-and-territory)
+
+  How to [Organize a Protest](/strategy/organize-a-protest)
+
+  **Get Inspired!**
+
+  [Nekiiyaas' Story](/stories/nekiiyaas-noakes)
+
+  [David and Travis' Story](/stories/david-shepherd-and-travis-price)
 position: 1
 ---
 

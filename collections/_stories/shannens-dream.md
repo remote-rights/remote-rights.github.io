@@ -4,7 +4,11 @@ title: Shannen’s Dream
 location: Attawapiskat, Ontario
 subtitle: Equitable and Culturally Appropriate Education for All
 aside_links: |
-  **Read More** about creating change in [Your First Nation](/people-places/in-my-first-nation) and by [Creating a Concrete Goal](/strategy/create-a-concrete-goal)
+  **Read More**
+
+  [Your First Nation](/people-places/in-my-first-nation)
+
+  [Creating a Concrete Goal](/strategy/create-a-concrete-goal)
 
 position: 4
 ---

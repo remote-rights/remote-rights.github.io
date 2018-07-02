@@ -4,7 +4,13 @@ title: In the World
 image: "/assets/img/change/world.jpeg"
 pdf: "/assets/pdf/change/world.pdf"
 aside_links: |
-  **Read More** about creating global change in [Maayan's Story](/stories/maayan-ziv) and [Educating Yourself](/strategy/educate-yourself)
+  **Read More**
+
+  [Educating Yourself](/strategy/educate-yourself)
+
+  **Get Inspired!**
+
+  [Maayan's Story](/stories/maayan-ziv)
 position: 3
 ---
 

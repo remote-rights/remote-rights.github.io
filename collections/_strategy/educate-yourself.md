@@ -4,7 +4,13 @@ title: Educate Yourself
 position: 3
 aside: If you don't know where to start, ask a librarian at your library
 aside_links: |
-  **Read More** about educating yourself in [Maayan's Story](/stories/maayan-ziv) and [Creating Change in the World](/people-places/in-the-world)
+  **Read More**
+
+  [Creating Change in the World](/people-places/in-the-world)
+
+  **Get Inspired!**
+
+  [Maayan's Story](/stories/maayan-ziv)
 ---
 <!-- Side bubble: If you don't know where to start, ask a librarian at your library! -->
 

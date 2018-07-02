@@ -4,7 +4,14 @@ title: Family
 image: "/assets/img/change/family.jpeg"
 pdf: "/assets/pdf/change/family.pdf"
 aside_links: |
-  **Read More** about creating change in [Noah's Story](/stories/noah-irvine) by [Contacting Decision Makers](/strategy/contact-decision-makers)
+  **Read More about Creating Change:**
+
+   [Contacting Decision Makers](/strategy/contact-decision-makers)
+
+   **Get Inspired!**
+
+   [Noah's Story](/stories/noah-irvine)
+
 position: 11
 ---
 

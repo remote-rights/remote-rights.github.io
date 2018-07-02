@@ -2,9 +2,21 @@
 layout: strategy
 title: Put Your Message Out There
 aside_links: |
-  **Read More** about creating change in [Your Indigenous School](/people-places/in-my-indigenous-school) or [Your Non-Indigenous School](/people-places/in-my-non-indigenous-school)  <br>
-  **Learn More** about [School Boards](/resources#3-school-boards-by-province-and-territory)<br>
-  **Get Inspired!** [Nekiiyaas' Story](/stories/nekiiyaas-noakes)
+  **Read More**
+
+  [Your Indigenous School](/people-places/in-my-indigenous-school)
+
+  [Your Non-Indigenous School](/people-places/in-my-non-indigenous-school)
+
+
+  **Learn More**
+
+  [School Boards](/resources#3-school-boards-by-province-and-territory)
+
+
+  **Get Inspired!**
+
+  [Nekiiyaas' Story](/stories/nekiiyaas-noakes)
 position: 5
 ---
 ## Create some of your own media to demand change

@@ -4,7 +4,13 @@ title: First Nation
 image: "/assets/img/change/first-nation.jpeg"
 pdf: "/assets/pdf/change/first-nation.pdf"
 aside_links: |
-  **Read More** about creating change by [Creating a Concrete Goal](/strategy/create-a-concrete-goal) and [Shannen's Story](/stories/shannens-dream)
+  **Read More about Creating Change:**
+
+  [Creating a Concrete Goal](/strategy/create-a-concrete-goal)
+
+  **Get Inspired!**
+  
+  [Shannen's Story](/stories/shannens-dream)
 position: 7
 ---
 

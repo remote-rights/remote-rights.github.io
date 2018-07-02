@@ -5,7 +5,11 @@ location: Toronto, Ontario
 subtitle: Creating Safe Places for Women of Colour
 image: /assets/img/stories/monica-samuel.jpg
 aside_links: >
-  **Read More** about creating change in [Your Community](/people-places/in-my-community) and [Finding Your People](/strategy/find-your-people)
+  **Read More**
+
+  [Your Community](/people-places/in-my-community)
+
+  [Finding Your People](/strategy/find-your-people)
 position: 7
 ---
 ### The Opportunity:

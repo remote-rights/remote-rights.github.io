@@ -8,7 +8,13 @@ aside: |
 
   For more info about protesting safely, research "_how to protest safely_" online.
 aside_links: |
-  **Read More** about creating change in [Your Community](/people-places/in-my-community) and keeping yoursef safe in [Candice and Nancy's Story](/stories/foxy-smash)
+  **Read More**
+
+  [Your Community](/people-places/in-my-community)
+
+  **Get Inspired!**
+  
+  [Candice and Nancy's Story](/stories/foxy-smash)
 ---
 
 Sometimes, advocacy can open us up to unwanted attention. Being vocal about the things we want to change might encourage other people to judge or criticize us or our ideas. Advocacy can also make people in authority uncomfortable or upset, and they might overreact to the criticism they hear. These steps can help reduce some of the risks of advocating.
