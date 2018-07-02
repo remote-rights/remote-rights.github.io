@@ -3,7 +3,7 @@ layout: stories
 title: FOXY/SMASH
 location: Northwest Territories
 subtitle: Making sexual education fun and accessible
-photo_credit: Photos courtesy of Kayley Inuksuk Mackay
+photo_credit: Photo Credit: Kayley Inuksuk Mackay
 image: /assets/img/stories/nancy-macneill.jpg
 image_2: /assets/img/stories/candice-lys.jpg
 aside_links: |
@@ -30,4 +30,4 @@ FOXY and SMASH use the visual and performing arts to talk about sexual health, h
 At FOXY and SMASH Peer Leader Retreats, youth train to become Peer Leaders, so that they can help out with FOXY and SMASH workshops throughout the school year and be leaders in their communities by completing community projects.
 
 ### Advice from Candice:
-Don't underestimate yourself, or undervalue your needs because of your age. Adults sometimes disregard youth, and you need to remind yourself that your needs, opinions, and values are just as important as anybody else's. It might take a while to make people listen to you, but it'll be worth it to keep speaking up.
+"Don't underestimate yourself, or undervalue your needs because of your age. Adults sometimes disregard youth, and you need to remind yourself that your needs, opinions, and values are just as important as anybody else's. It might take a while to make people listen to you, but it'll be worth it to keep speaking up.""
