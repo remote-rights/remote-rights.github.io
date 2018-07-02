@@ -14,7 +14,7 @@ Depending on what materials you create, you can include a lot of information or 
 **_A little bit of information can go on..._**
 
 - A pin to go on a backpack or coat
-- A postcard - postcard campaigns are a cool way to get a lot of people to send a message to one person in particular.
+- A postcard - postcard campaigns are a cool way to get a lot of people to send a message to one person in particular
 - A tweet
 
 **_A medium amount of information can go in..._**

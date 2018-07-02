@@ -15,7 +15,7 @@ Sometimes, advocacy can open us up to unwanted attention. Being vocal about the 
 
 ## 1. Protect Your Mental Health
 
-- Check in with yourself to make sure you're not feeling overwhelmed. Keep a journal to keep track of how you're feeling. Check out our [Resources Page](/resources) for more info!
+- Check in with yourself to make sure you're not feeling overwhelmed. Keep a journal to keep track of how you're feeling. Check out [Further Resources](/resources) for more info!
 
 - Ask for help if you do feel overwhelmed. People who care about you always want to help!
 

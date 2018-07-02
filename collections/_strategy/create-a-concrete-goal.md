@@ -17,7 +17,7 @@ Think of the big problem that is affecting you and your community and what your 
 
 ## 2. What Are the Steps to Getting There?
 
- What are some steps to achieve your ultimate dream goal? Who do you need help from? What ways do you need support? Are there materials that you need? What's the best way to get my message out here? This kind of exercise is often best to do with a group or at least one other person.
+ What are some steps to achieve your ultimate dream goal? Who do you need help from? What ways do you need support? Are there materials that you need? What's the best way to get your message out there? This kind of exercise is often best to do with a group or at least one other person.
 
 ## 3. Choose a Simple Goal to Achieve First
 
