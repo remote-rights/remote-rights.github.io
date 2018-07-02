@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Resources
+title: Further Resources
 permalink: resources.html
 ---
 
@@ -151,7 +151,7 @@ School Directory: [nbed.nb.ca/schooldirectory](http://www.nbed.nb.ca/schooldirec
 School Districts: [ed.gov.nl.ca/edu/k12/schoolsdistricts/districts.html](http://www.ed.gov.nl.ca/edu/k12/schoolsdistricts/districts.html)
 
 ### Northwest Territories
-NWT Teachers' Associaton Interactive Map: [nwtta.nt.ca/interactive-map](https://nwtta.nt.ca/interactive-map)
+NWT Teachers' Association Interactive Map: [nwtta.nt.ca/interactive-map](https://nwtta.nt.ca/interactive-map)
 
 ### Nova Scotia
 Schools and Regional Centres for Education: [ednet.ns.ca/our-schools-regional-centres-education](https://www.ednet.ns.ca/our-schools-regional-centres-education)
@@ -181,8 +181,7 @@ La Commission scolaire de langue française: [https://cslfipe.wordpress.com/](ht
   </div>
 </div>
 
-### Quebec
-
+### Québec
 Commissions scolaires: [fcsq.qc.ca/commissions-scolaires/](http://fcsq.qc.ca/commissions-scolaires/)
 
 English School Boards Association School Boards: [qesba.qc.ca/en/school-boards](http://www.qesba.qc.ca/en/school-boards)
@@ -232,23 +231,23 @@ Nova Scotia Serious Incident Response Team: [sirt.novascotia.ca](http://sirt.nov
 
 ### Ontario
 
-Special Investigations Unit: [http://siu.on.ca/en/index.php](http://www.siu.on.ca/en/index.php)
+Special Investigations Unit: [siu.on.ca](http://www.siu.on.ca/en/index.php)
 
-Ontario Office of the Independent Police Review: [oiprd.on.ca/CMS/Home.aspx](https://www.oiprd.on.ca/CMS/Home.aspx)
+Ontario Office of the Independent Police Review: [oiprd.on.ca](https://www.oiprd.on.ca)
 
-Ontario Civilian Commission on Police Services: [ocpc.ca/english/index.asp](http://ocpc.ca/english/index.asp)
+Ontario Civilian Commission on Police Services: [slasto.gov.on.ca](http://www.slasto.gov.on.ca/en/ocpc/Pages/default.aspx)
 
 ### Prince Edward Island
 
 Office of the Police Commissioner: [policecommissioner.pe.ca](http://www.policecommissioner.pe.ca/)
 
-### Quebec
+### Québec
 
-Police Ethics Commissioner: [deontologie-policiere.gouv.qc.ca/index.php?id=74&L=1](http://www.deontologie-policiere.gouv.qc.ca/index.php?id=74&L=1)
+Police Ethics Commissioner: [deontologie-policiere.gouv.qc.ca/accueil](https://deontologie-policiere.gouv.qc.ca/accueil.html)
 
 ### Saskatchewan
 
-Saskatchewan Public Complaints Commission: [justice.gov.sk.ca/publiccomplaintscommission](http://www.justice.gov.sk.ca/publiccomplaintscommission)
+Saskatchewan Public Complaints Commission: [saskatchewan.ca/government/government-structure/boards-commissions-and-agencies/saskatchewan-public-complaints-commission](https://www.saskatchewan.ca/government/government-structure/boards-commissions-and-agencies/saskatchewan-public-complaints-commission)
 
 ### Federal (RCMP and Military)
 
