@@ -1,8 +1,8 @@
 ---
 layout: people-places
-title: In My Community
-image: "/assets/img/change/in-canada.jpg"
-pdf: "/assets/pdf/change/in-canada.pdf"
+title: Community
+image: "/assets/img/change/community.jpeg"
+pdf: "/assets/pdf/change/community.pdf"
 aside_links: |
   **Read More**
 

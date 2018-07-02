@@ -1,8 +1,8 @@
 ---
 layout: people-places
-title: In My Family
-image: "/assets/img/change/in-canada.jpg"
-pdf: "/assets/pdf/change/in-canada.pdf"
+title: Family
+image: "/assets/img/change/family.jpeg"
+pdf: "/assets/pdf/change/family.pdf"
 aside_links: |
   **Read More about Creating Change:**
 

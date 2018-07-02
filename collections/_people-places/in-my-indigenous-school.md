@@ -1,8 +1,8 @@
 ---
 layout: people-places
-title: In My Indigenous School
-image: "/assets/img/change/in-canada.jpg"
-pdf: "/assets/pdf/change/in-canada.pdf"
+title: Indigenous Schools
+image: "/assets/img/change/indigenous-schools.jpeg"
+pdf: "/assets/pdf/change/indigenous-schools.pdf"
 aside_links: |
   **Read More**
 

@@ -1,8 +1,8 @@
 ---
 layout: people-places
 title: In the World
-image: "/assets/img/change/in-canada.jpg"
-pdf: "/assets/pdf/change/in-canada.pdf"
+image: "/assets/img/change/world.jpeg"
+pdf: "/assets/pdf/change/world.pdf"
 aside_links: |
   **Read More**
 

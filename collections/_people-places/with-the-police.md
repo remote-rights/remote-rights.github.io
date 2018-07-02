@@ -1,8 +1,8 @@
 ---
 layout: people-places
-title: With the Police
-image: "/assets/img/change/in-canada.jpg"
-pdf: "/assets/pdf/change/in-canada.pdf"
+title: Police
+image: "/assets/img/change/police.jpeg"
+pdf: "/assets/pdf/change/police.pdf"
 aside_links: |
   **Related Resources:**
 
