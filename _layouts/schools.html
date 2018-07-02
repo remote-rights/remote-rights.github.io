@@ -6,9 +6,9 @@
       {% assign items = site.schools | sort: "position" %}
       {% for item in items %}
         {% if item.position == 1 %}
-          <li class="nav-link active"><a data-toggle="pill" href="#{{ item.reference }}">{{ item.title }}</a></li>
+          <li class="nav-item"><a class="nav-link active" data-toggle="pill" href="#{{ item.reference }}">{{ item.title }}</a></li>
         {% else %}
-          <li class="nav-link"><a data-toggle="pill" href="#{{ item.reference }}">{{ item.title }}</a></li>
+          <li class="nav-item"><a class="nav-link" data-toggle="pill" href="#{{ item.reference }}">{{ item.title }}</a></li>
         {% endif %}
       {% endfor %}
     </ul>
@@ -17,11 +17,11 @@
       {% assign items = site.schools | sort: "position" %}
       {% for item in items %}
         {% if item.position == 1 %}
-          <div id="{{item.reference}}" class="tab-pane active">
+          <div id="{{item.reference}}" class="tab-pane fade show active" role="tabpanel" aria-labelledby="{{ item.reference }}-tab">
             {% include school-type.html %}
           </div>
         {% else %}
-          <div id="{{ item.reference }}" class="tab-pane fade">
+          <div id="{{ item.reference }}" class="tab-pane fade" role="tabpanel" aria-labelledby="{{ item.reference }}-tab">
             {% include school-type.html %}
           </div>
         {% endif %}
