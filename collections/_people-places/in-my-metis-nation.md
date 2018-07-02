@@ -1,6 +1,7 @@
 ---
 layout: people-places
 title: Métis Nation
+display_title: In My Métis Nation
 image: "/assets/img/change/metis-nation.jpeg"
 pdf: "/assets/pdf/change/metis-nation.pdf"
 position: 6

@@ -1,27 +1,7 @@
-<div class="row justify-content-around">
-  <div class="col-md-8">
-    {{ item.content | markdownify }}
-    <div class="card primary">
-      <img src="{{ item.image | absolute_url }}" alt="{{ item.title }}" class="card-img-top">
-      <div class="card-body">
-        <a href="{{ item.pdf | absolute_url }}" class="btn btn-primary">View as a PDF</a>
-      </div>
-    </div>
-  </div>
-  <div class="col-md-4 related-links">
-    {% if item.aside %}
-      <aside class="card mb-2">
-        <div class="card-body">
-          {{ item.aside | markdownify }}
-        </div>
-      </aside>
-    {% endif %}
-    {% if item.aside_links %}
-      <aside class="card">
-        <div class="card-body">
-          {{ item.aside_links | markdownify }}
-        </div>
-      </aside>
-    {% endif %}
+{{ item.content | markdownify }}
+<div class="card primary">
+  <img src="{{ item.image | absolute_url }}" alt="{{ item.title }}" class="card-img-top">
+  <div class="card-body">
+    <a href="{{ item.pdf | absolute_url }}" class="btn btn-primary">View as a PDF</a>
   </div>
 </div>

@@ -3,7 +3,13 @@
     <div class="card home-page-card shadow">
       <a href="{{ item.url }}">
         <div class="card-body">
-          <h3 class="card-title mb-0 h4">{{ item.title }}</h5>
+          <h3 class="card-title mb-0 h4">
+            {% if item.display_title %}
+              {{ item.display_title }}
+            {% else %}
+              {{ item.title }}
+            {% endif %}
+          </h5>
         </div>
       </a>
     </div>

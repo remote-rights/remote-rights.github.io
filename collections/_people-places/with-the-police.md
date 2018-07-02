@@ -1,6 +1,7 @@
 ---
 layout: people-places
 title: Police
+display_title: With the Police 
 image: "/assets/img/change/police.jpeg"
 pdf: "/assets/pdf/change/police.pdf"
 aside_links: |

@@ -1,6 +1,7 @@
 ---
 layout: people-places
 title: Family
+display_title: In My Family
 image: "/assets/img/change/family.jpeg"
 pdf: "/assets/pdf/change/family.pdf"
 aside_links: |

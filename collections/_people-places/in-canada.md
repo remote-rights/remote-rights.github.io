@@ -1,6 +1,7 @@
 ---
 layout: people-places
 title: Canada
+display_title: In Canada
 image: "/assets/img/change/canada.jpeg"
 pdf: "/assets/pdf/change/canada.pdf"
 position: 4

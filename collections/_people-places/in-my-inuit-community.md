@@ -1,6 +1,7 @@
 ---
 layout: people-places
 title: Inuit Leadership
+display_title: In My Innuit Community
 image: "/assets/img/change/inuit-leadership.jpeg"
 pdf: "/assets/pdf/change/inuit-leadership.pdf"
 aside_links: 

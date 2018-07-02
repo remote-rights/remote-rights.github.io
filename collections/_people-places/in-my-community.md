@@ -1,6 +1,7 @@
 ---
 layout: people-places
 title: Community
+display_title: In My Community
 image: "/assets/img/change/community.jpeg"
 pdf: "/assets/pdf/change/community.pdf"
 aside_links: |

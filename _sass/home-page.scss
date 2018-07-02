@@ -50,13 +50,19 @@
 }
 
 .jumbotron.people-places {
-  background: url(/assets/img/home-page-microphones.jpg);
+  background: url(/assets/img/home-page-hands-up.jpg);
   background-position: bottom;
   background-size: cover;
 }
 
 .jumbotron.strategy {
   background: url(/assets/img/home-page-students.jpg);
+  background-position: bottom;
+  background-size: cover;
+}
+
+.jumbotron.stories {
+  background: url(/assets/img/home-page-microphones.jpg);
   background-position: bottom;
   background-size: cover;
 }

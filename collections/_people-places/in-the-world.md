@@ -1,6 +1,7 @@
 ---
 layout: people-places
 title: World
+display_title: In the World
 image: "/assets/img/change/world.jpeg"
 pdf: "/assets/pdf/change/world.pdf"
 aside_links: |

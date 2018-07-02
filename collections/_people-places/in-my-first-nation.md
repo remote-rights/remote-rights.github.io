@@ -1,6 +1,7 @@
 ---
 layout: people-places
 title: First Nation
+display_title: In My First Nation
 image: "/assets/img/change/first-nation.jpeg"
 pdf: "/assets/pdf/change/first-nation.pdf"
 aside_links: |
