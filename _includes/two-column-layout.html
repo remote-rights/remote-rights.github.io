@@ -2,7 +2,17 @@
   <div class="col-md-8">
     {{ page.content }}
   </div>
-  <div class="col-md-4 related-links">
+  <div class="col-md-4 related-links" >
+    {% if page.image %}
+    <div align="center" >
+      {% if page.image_2 %}
+      <img class="img-fluid rounded" src="{{ page.image }}" >
+      <img class="img-fluid rounded" src="{{ page.image_2 }}" >
+      {% else %}
+      <img class="img-fluid rounded" src="{{ page.image }}" >
+      {% endif %}
+    </div>
+    {% endif %}
     {% if page.aside %}
       <aside class="card mb-2">
         <div class="card-body">
