@@ -5,10 +5,10 @@
     <ul class="nav nav-pills">
       {% assign items = site.schools | sort: "position" %}
       {% for item in items %}
-        {% if item.position == "1" %}
-          <li class="active"><a data-toggle="pill" href="#{{ item.reference }}">{{ item.title }}</a></li>
+        {% if item.position == 1 %}
+          <li class="nav-link active"><a data-toggle="pill" href="#{{ item.reference }}">{{ item.title }}</a></li>
         {% else %}
-          <li><a data-toggle="pill" href="#{{ item.reference }}">{{ item.title }}</a></li>
+          <li class="nav-link"><a data-toggle="pill" href="#{{ item.reference }}">{{ item.title }}</a></li>
         {% endif %}
       {% endfor %}
     </ul>
