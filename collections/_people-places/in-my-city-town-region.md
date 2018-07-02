@@ -1,6 +1,6 @@
 ---
 layout: people-places
-title: City/Town/Region
+title: City, Town or Region
 image: "/assets/img/change/city-town-region.jpeg"
 pdf: "/assets/pdf/change/city-town-region.pdf"
 position: 9

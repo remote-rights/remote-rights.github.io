@@ -3,15 +3,9 @@
 </div>
 <div class="row justify-content-center">
   <div class="col-lg-10">
+    {% assign items = site.stories | sort: "position" %}
     <div class="row">
-        <div class="col-lg-6">
-          <div class="list-group">
-            {% assign items = site.stories | sort: "position" %}
-            {% for item in items %}
-              <a class="list-group-item list-group-item-action" href="{{ item.url }}">{{ item.title }}</a>
-            {% endfor %}
-          </div>
-        </div>
+      {% include home-page-cards.html %}
     </div>
   </div>
 </div>
