@@ -1,6 +1,6 @@
 ---
 layout: stories
-title: Maple Spring//Printemps Érable
+title: Maple Spring | Printemps Érable
 subtitle: Student Strikes in Québec
 photo_credit: Photo Credit - McGill Tribune
 location: Various Locations, Québec

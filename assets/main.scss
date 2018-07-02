@@ -13,29 +13,27 @@ $theme-colors: (
   "header-color": $orange
 );
 
+$marker: "permanent_markerregular", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
+$bebas: "bebasregular", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
+
 @font-face {
   font-family: 'permanent_markerregular';
   src: url('/assets/fonts/permanent-marker/PermanentMarker-webfont.eot');
   src: url('/assets/fonts/permanent-marker/PermanentMarker-webfont.eot?#iefix') format('embedded-opentype'),
-       url('/assets/fonts/permanent-marker/PermanentMarker-webfont.woff2') format('woff2'),
        url('/assets/fonts/permanent-marker/PermanentMarker-webfont.woff') format('woff'),
-       url('/assets/fonts/permanent-marker/PermanentMarker-webfont.ttf') format('truetype'),
-       url('/assets/fonts/permanent-marker/PermanentMarker-webfont.svg#permanent_markerregular') format('svg');
+       url('/assets/fonts/permanent-marker/PermanentMarker-webfont.ttf') format('truetype');
   font-weight: normal;
   font-style: normal;
 }
 
 @font-face {
   font-family: 'bebasregular';
-  src: url('BEBAS___-webfont.eot');
-  src: url('BEBAS___-webfont.eot?#iefix') format('embedded-opentype'),
-       url('BEBAS___-webfont.woff2') format('woff2'),
-       url('BEBAS___-webfont.woff') format('woff'),
-       url('BEBAS___-webfont.ttf') format('truetype'),
-       url('BEBAS___-webfont.svg#bebasregular') format('svg');
+  src: url('/assets/fonts/bebas/BEBAS___-webfont.eot');
+  src: url('/assets/fonts/bebas/BEBAS___-webfont.eot?#iefix') format('embedded-opentype'),
+       url('/assets/fonts/bebas/BEBAS___-webfont.woff') format('woff'),
+       url('/assets/fonts/bebas/BEBAS___-webfont.ttf') format('truetype');
   font-weight: normal;
   font-style: normal;
-
 }
 
 @import "bootstrap/bootstrap";
@@ -50,8 +48,7 @@ $theme-colors: (
     color: theme-color("primary");
     border-bottom: 0.9rem solid $orange;
     display: inline-block;
-    line-height: 0.6;
-    font-family: "permanent_markerregular";
+    line-height: 0.8;
   }
 }
 
@@ -70,11 +67,19 @@ $theme-colors: (
   text-align: center;
 
   a {
-    position: absolute;
-    top: 0;
-    left: 0;
-    height: 100%;
-    width: 100%;
+
+  }
+
+  .card-body {
+    padding: 0;
+  }
+
+  a .card-title {
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    height: 150px;
+    padding: 1rem;
   }
 
   a:hover {

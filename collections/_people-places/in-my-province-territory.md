@@ -1,7 +1,7 @@
 ---
 layout: people-places
 
-title: In My Province/Territory
+title: Province or Territory
 image: "/assets/img/change/in-canada.jpg"
 pdf: "/assets/pdf/change/in-canada.pdf"
 aside_links: |

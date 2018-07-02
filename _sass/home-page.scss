@@ -1,3 +1,4 @@
+
 .jumbotron.home-page {
   height: 500px;
   position: relative;
@@ -13,6 +14,17 @@
     border-bottom-left-radius: $border-radius;
     border-bottom-right-radius: $border-radius;
     padding: 1em;
+
+    h1, h2, h3 {
+      letter-spacing: -.5px;
+      font-family: $marker;
+    }
+
+    p {
+      letter-spacing: 1px;
+      font-size: 1.4rem;
+      font-family: $marker;
+    }
   }
 }
 
