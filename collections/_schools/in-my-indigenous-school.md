@@ -4,12 +4,13 @@ title: Indigenous Schools
 image: "/assets/img/change/indigenous-schools.jpeg"
 pdf: "/assets/pdf/change/indigenous-schools.pdf"
 reference: indigenous-schools
+position: 1
 aside_links: |
   **Read More**
 
   [School Boards](/resources#3-school-boards-by-province-and-territory)
 
-  [Organize a Protest](/strategy/organize-a-protest)
+  How to [Organize a Protest](/strategy/organize-a-protest)
 
   **Get Inspired!**
 

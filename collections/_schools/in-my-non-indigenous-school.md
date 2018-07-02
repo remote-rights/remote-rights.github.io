@@ -1,10 +1,11 @@
 ---
 layout: people-places
-title: Non-Indigenous Schools
+title: Non-Indigenous School
 image: "/assets/img/change/non-indigenous-schools.jpeg"
 pdf: "/assets/pdf/change/non-indigenous-schools.pdf"
 reference: non-indigenous-schools
 aside_title: Related Resources
+position: 2
 aside_links: |
   **Read More**
 

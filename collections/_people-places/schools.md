@@ -1,5 +1,5 @@
 ---
-layout: schools 
-title: Schools 
+layout: schools
+title: Schools
 position: 1
 ---

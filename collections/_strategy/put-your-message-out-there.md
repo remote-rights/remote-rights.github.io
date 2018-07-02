@@ -4,9 +4,7 @@ title: Put Your Message Out There
 aside_links: |
   **Read More**
 
-  [Your Indigenous School](/people-places/in-my-indigenous-school)
-
-  [Your Non-Indigenous School](/people-places/in-my-non-indigenous-school)
+  [Schools](/people-places/schools)
 
 
   **Learn More**
