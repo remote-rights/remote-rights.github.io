@@ -4,8 +4,18 @@ title: Nekiiyaa Noakes
 location: Manitoulin Island, Ontario
 subtitle: Confronting Racism in School
 aside_links: |
-  **Read More** about creating change in [Your Indigenous School](/people-places/in-my-indigenous-school) or [Your Non-Indigenous School](/people-places/in-my-non-indigenous-school)  <br>
-  **Learn More** about [School Boards](/resources#3-school-boards-by-province-and-territory) or how to [Put Your Message Out There](/strategy/put-your-message-out-there)<br>
+  **Read More**
+
+  [Your Indigenous School](/people-places/in-my-indigenous-school)
+
+  [Your Non-Indigenous School](/people-places/in-my-non-indigenous-school)
+
+
+  **Learn More**
+
+  [School Boards](/resources#3-school-boards-by-province-and-territory)
+
+  [Putting Your Message Out There](/strategy/put-your-message-out-there)
 position: 3
 ---
 

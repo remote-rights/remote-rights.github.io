@@ -6,7 +6,11 @@ photo_credit: Photo Credit - McGill Tribune
 location: Various Locations, Québec
 image: /assets/img/stories/quebec-student-strikes.jpg
 aside_links: >
-  **Read More** about creating change in [Your Province or Territory](/people-places/in-my-province-territory) and how to [Organize a Protest](/strategy/organize-a-protest)
+  **Read More**
+
+  [Your Province or Territory](/people-places/in-my-province-territory)
+
+  [Organize a Protest](/strategy/organize-a-protest)
 position: 2
 ---
 ### What needed to change:

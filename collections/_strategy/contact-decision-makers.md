@@ -2,8 +2,18 @@
 layout: strategy
 title: Contact Decision Makers
 aside_links: |
-  **Read More** about creating change [In Your Family](/people-places/in-my-family) or [In Your Province/Territory](/people-places/in-my-province-territory)<br>
-  **Get Inspired!** [Noah's Story](/stories/noah-irvine) and [Astrid's Story](/stories/astrid-neilson-miller)
+  **Read More**
+
+  [In Your Family](/people-places/in-my-family)
+
+  [In Your Province/Territory](/people-places/in-my-province-territory)
+
+
+  **Get Inspired!**
+
+  [Noah's Story](/stories/noah-irvine)
+
+  [Astrid's Story](/stories/astrid-neilson-miller)
 position: 8
 ---
 

@@ -5,7 +5,11 @@ location: Toronto, Ontario
 subtitle: Accessibility for Everyone
 image: /assets/img/stories/maayan-ziv.jpg
 aside_links: |
-  **Read More** about [Creating Change in the World](/people-places/in-the-world) and [Educating Yourself](/strategy/educate-yourself)
+  **Read More**
+
+  [Creating Change in the World](/people-places/in-the-world)
+
+  [Educating Yourself](/strategy/educate-yourself)
 
 position: 9
 ---

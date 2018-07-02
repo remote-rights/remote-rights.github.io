@@ -4,7 +4,13 @@ title: In My First Nation
 image: "/assets/img/change/in-canada.jpg"
 pdf: "/assets/pdf/change/in-canada.pdf"
 aside_links: |
-  **Read More** about creating change by [Creating a Concrete Goal](/strategy/create-a-concrete-goal) and [Shannen's Story](/stories/shannens-dream)
+  **Read More about Creating Change:**
+
+  [Creating a Concrete Goal](/strategy/create-a-concrete-goal)
+
+  **Get Inspired!**
+  
+  [Shannen's Story](/stories/shannens-dream)
 position: 7
 ---
 
