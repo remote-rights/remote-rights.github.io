@@ -11,7 +11,7 @@ A protest can bring a lot of awareness to your cause, and can build excitement a
 
  **Why?** You should be able to identify why you want to hold a protest. How will it further your goals? How will you know it was a success?
 
-**What?** What kind of protest would would work best for your skills and the type of issue? A march in the streets? A rally? Street theatre? Flash mob? Dance party? Online protest? Boycott?
+**What?** What kind of protest would work best for your skills and the type of issue? A march in the streets? A rally? Street theatre? Flash mob? Dance party? Online protest? Boycott?
 
 **When and Where?** Choose your location and time based on how many people you think will come, what you’re trying to achieve, and what the safety risks are. E.g.: If you’re protesting a specific company, it might make sense to demonstrate outside of the business,
 unless there are safety risks.

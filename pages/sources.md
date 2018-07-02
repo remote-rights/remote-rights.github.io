@@ -4,6 +4,8 @@ title: Sources
 permalink: sources.html
 ---
 
+_The following resources and websites were great sources of inspiration and guidance for the advocacy toolkit:_
+
 Advocacy 101: Kidney Cancer Canada
 [https://www.kidneycancercanada.ca/support-us/become-an-advocate-for-kidney-cancer/advocacy-101/](https://www.kidneycancercanada.ca/support-us/become-an-advocate-for-kidney-cancer/advocacy-101/)
 
@@ -25,6 +27,8 @@ Canada, Department of Justice Glossary of Legal Terms
 Change the World (by having fun): YWCA Canada Youth Civil Engagement Toolkit
 [http://ywcacanada.ca/data/documents/00000334.pdf](http://ywcacanada.ca/data/documents/00000334.pdf)
 
+Chanie Wenjack School for Indigenous Studies, Trent University [https://www.trentu.ca/indigenous/](https://www.trentu.ca/indigenous/)
+
 Children’s Legal Resource Centre
 [http://youthlaw.ca/definitions/](http://youthlaw.ca/definitions/)
 
@@ -36,7 +40,31 @@ From Youth to You: FCJ Refugee Centre Toolkit
 Human Rights Legal Support Centre, Common Legal Terms
 [http://www.hrlsc.on.ca/en/how-guides-and-faqs/common-legal-terms](http://www.hrlsc.on.ca/en/how-guides-and-faqs/common-legal-terms)
 
+Indigenous and Northern Affairs Canada, FN as Reporting Entity (FNRE) Typical Functional Organizational Chart - Diagram
+[https://www.aadnc-aandc.gc.ca/eng/1340036355882/1340036555798](https://www.aadnc-aandc.gc.ca/eng/1340036355882/1340036555798)
+
+“Indigenous Canada”, University of Alberta Massive Open Online Course
+[https://www.coursera.org/learn/indigenous-canada](https://www.coursera.org/learn/indigenous-canada)
+
+Inuit Qaujisarvingat: Inuit Knowledge Centre at ITK
+[http://www.inuitknowledge.ca/](http://www.inuitknowledge.ca/)
+
+Métis Nation of Alberta
+[http://albertametis.com/](http://albertametis.com/)
+
+Métis Nation of Ontario
+[http://www.metisnation.org/](http://www.metisnation.org/)
+
+Métis National Council
+[Metisnation.ca](Metisnation.ca)
+
+Parliament of Canada: Overview of the Canadian Parliamentary System
+[https://lop.parl.ca/About/Parliament/Education/OurCountryOurParliament/html_booklet/overview-canadian-parliamentary-system-e.html](https://lop.parl.ca/About/Parliament/Education/OurCountryOurParliament/html_booklet/overview-canadian-parliamentary-system-e.html)
+
 Suffolk University Boston, Social Justice Terminology [http://www.suffolk.edu/campuslife/27883.php](http://www.suffolk.edu/campuslife/27883.php)
+
+The Canadian Encyclopedia, School Boards
+[https://www.thecanadianencyclopedia.ca/en/article/school-boards/](https://www.thecanadianencyclopedia.ca/en/article/school-boards/)
 
 Unicef, Convention on the Elimination of all forms of Discrimination Against Women In Brief, for Adolescents
 [https://www.unicef.org/gender/files/CEDAW_In_Brief_For_Adolescent-Web_Version.pdf](https://www.unicef.org/gender/files/CEDAW_In_Brief_For_Adolescent-Web_Version.pdf)
@@ -56,10 +84,4 @@ Young people as advocates – your action for change toolkit: International Plan
 Youth Activist’s Toolkit, Advocates for Youth
 [https://www.advocatesforyouth.org/storage/advfy/documents/Activist_Toolkit/activisttoolkit.pdf](https://www.advocatesforyouth.org/storage/advfy/documents/Activist_Toolkit/activisttoolkit.pdf)
 
-
-Special thanks to:
-- Alicia Blore
-- Tyler Fetch
-- David Newhouse
-
-Advocacy toolkit publication date: July 2018
+Publication Date: July 2018

@@ -16,19 +16,24 @@ In a Grade 11 writing assignment, Noah wrote a letter about mental health and ad
 
 ### Contacting Decision Makers:
 
-So Noah and his grandfather looked up the constituency addresses of all 338 Members of Parliament across Canada and sent out personalized letters in 2017.
+n 2017, Noah and his grandfather looked up the constituency addresses of all 338 Members of Parliament across Canada and sent out 338 personalized letters!
 
-### Getting his message out there using news media:
+### Putting his message out there using news media:
 
 Six months later, only 40 MPs had responded – so Noah went to his local media. A story in GuelphToday.com ended up being shared 12,000 times, and his story took off in media across the world.
+
+### Creating Concrete Goals:
+
+Since writing that first letter in class, Noah has developed two concrete goals: 1) He is asking the federal government to create an office (called a Secretariat) for Mental Health and Addictions within the Prime Minister’s Office and 2) He is asking the federal government and all provincial and territorial governments to create Ministries of Mental Health and Addictions.
+
 
 ### Success! And the advocacy continues!
 
 After Noah’s story caught on in the news, he was given a one-on-one meeting with the federal Minister of Health, and he had a twenty-minute phone call with Prime Minister Trudeau. He received a standing ovation from the Ontario Legislature, and he was featured in Bell’s Let’s Talk Campaign. In these conversations, Noah has focused very clearly on his two goals.
 
-Noah continues to write letters to advocate for the creation of Ministries of Mental Health and an office for Mental Health and Addictions - he’s sent letters to every premier in the country, to every Minister of  Health, to the Governor General, and to the lieutenant general of each province. He plans to send letters to every Member of Provincial Parliament in Ontario following the provincial election. He’s created a website - www.stepupanddobetter.com - to speak about this issue and to encourage others to contact politicians at all levels about the urgent need for real improvements in mental health and addictions care and support. He’s also on Facebook at [@stepupanddobetter](https://www.facebook.com/stepupanddobetter/).
+Noah continues to write letters to advocate for the creation of Ministries of Mental Health and an office for Mental Health and Addictions - he’s sent letters to every premier in the country, to every Minister of Health, to the Governor General, and to the lieutenant general of each province. He plans to send letters to every Member of Provincial Parliament in Ontario following the provincial election. He’s created a website - www.stepupanddobetter.com - to speak about this issue and to encourage others to contact politicians at all levels about the urgent need for real improvements in mental health and addictions care and support. He’s also on Facebook at [@stepupanddobetter](https://www.facebook.com/stepupanddobetter/).
 
 
 ### Noah's advice:
 
-Successful advocacy is hard work and takes time. You have to be fully committed to whatever cause you’re advocating for. It’s a fact, politicians aren’t going to listen to you.  They’re going to ignore you or put you off. You have to keep going after them. You have to let them know you’re not going way. You have to let them know you expect answers from them. You should have one or two concrete goals. Ask politicians directly what they’re doing to support or achieve those goals. If they don’t answer, ask them again. When you ask a question deserve an answer.
+"Successful advocacy is hard work and takes time. You have to be fully committed to whatever cause you’re advocating for. It’s a fact, politicians aren’t going to listen to you. They’re going to ignore you or put you off. You have to keep going after them. You have to let them know you’re not going away. You have to let them know you expect answers from them. You should have one or two concrete goals. Ask politicians directly what they’re doing to support or achieve those goals. If they don’t answer, ask them again. When you ask a question deserve an answer.""

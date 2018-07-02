@@ -9,10 +9,10 @@ aside_links: >
 position: 7
 ---
 ### The Opportunity:
-Monica Samuel spent her high school years in Toronto working full-time and trying to qualify for all possible scholarships. She had to contribute to expenses at home, and was also saving up for university. Working so hard in school and at a full-time job, Monica didn’t feel like she got to have a real adolescence. She felt alone and disconnected from her culture and community. But there were Black women along her journey who encouraged and supported her, and it’s because of those women that she didn’t give up on herself.
+Monica Samuel spent her high school years in Toronto working full-time and trying to qualify for all possible university scholarships. She had to contribute to expenses at home, and was also saving up for university. Working so hard in school and at a full-time job, Monica didn’t feel like she got to have a real adolescence. She felt alone and disconnected from her culture and community. But there were Black women along her journey who encouraged and supported her, and it’s because of those women that she didn’t give up on herself.
 
 ### What needed to change:
-In 2013, while attending Ryerson University full-time, Monica was also volunteering at the Black Creek Community Health Centre. She noticed that safe spaces for Black women and girls in the Jane and Finch centre were grossly underfunded. So, Monica looked for small grants to apply to, and ended up getting one of them!
+In 2013, while attending Ryerson University full-time, Monica was also volunteering at a community health centre. She noticed that safe spaces for Black women and girls in the centre were grossly underfunded. So, Monica looked for small grants to apply to, and ended up getting one of them!
 
 With the funding that she got from the grant, Monica started an after school program. She created a program that helped young women feel supported while also working on their leadership skills. By the time Monica left the health centre, she knew she wanted to keep creating opportunities for Black women to get together and empower one another.
 

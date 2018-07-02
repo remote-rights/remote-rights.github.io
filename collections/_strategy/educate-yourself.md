@@ -35,4 +35,4 @@ Be wary of false news sites. Always check the ‘About Us’ area on a website t
 
 ### Get Stronger and Smarter
 
-Look for opportunities to become a better leader! There are always webinars and youth leadership conferences in your province/territory. There is lots of online literature to teach you how to lead for your cause! Check out our [Resources Page](/resources) to learn more.
+Look for opportunities to become a better leader, like webinars and youth leadership conferences in your province/territory. There is a lot of online literature to teach you how to lead for your cause. There are also lots of programs that let you travel while you learn. Gaining skills can be an adventure!

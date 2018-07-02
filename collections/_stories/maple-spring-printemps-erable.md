@@ -24,7 +24,7 @@ The Québec student unions created one concrete goal: to stop the increase in tu
 Across the province, Québec student unions voted to stop going to class until the government agreed to freeze tuition fees. By February 2012, the majority of student associations in Québec were on a general strike, some for an indefinite period.
 
 ### Organizing protests:
-To make their message heard, students took to the streets. On the 22nd of every month, the student associations organized big protests in Montreal and Québec City. A demonstration on March 22, 2012, brought together between 100,000 and 200,000 people in Montréal. When the government passed repressive laws aimed at making them return to class and stop protesting, they started marching every night to protest the new law and to demand a halt to a tuition increase.
+To make their message heard, students took to the streets. On the 22nd of every month, the student associations organized big protests in Montréal and Québec City. A demonstration on March 22, 2012, brought together between 100,000 and 200,000 people in Montréal. When the government passed repressive laws aimed at making students return to class and stop protesting, they started marching every night to protest the new law and to demand a halt to a tuition increase.
 
 The protests received national and international attention and were seen as part of demands for government accountability worldwide - the Québec student movement was called “Printemps Érable” (the “Maple Spring”), a reference to the term “Printemps Arabe” (“Arab Spring”), an expression referring to popular protest movements that took place in North Africa and the Middle East starting in December 2010.
 

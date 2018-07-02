@@ -16,4 +16,4 @@ How do you change something that's not fair? Go to <a href="/#strategy">Take Act
 
 ### Feature Stories
 
-Throughout the toolkit you'll find Feature Stories about youth who took action on issues important to them. Learn about what they wanted to change, and how they did it!
+Throughout the toolkit you'll find <a href="/#stories">Feature Stories</a> about youth who took action on issues important to them. Learn about what they wanted to change, and how they did it!

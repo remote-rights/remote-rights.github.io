@@ -12,15 +12,15 @@ position: 4
 ### What needed to change:
 Shannen Koostachin, a Mushkego Innanu James Bay Cree, grew up in Attawapiskat First Nation in northern Ontario. In 2000, when she was in kindergarten, her elementary school was closed because the ground underneath it was contaminated. Students were moved into freezing, moldy portables, and the federal government promised to build a new school.
 
-By 2007, students were still in the portables. Children as young as 9 were dropping out of school, and Shannen was in Grade 8. That’s when the government cancelled the project to build a new school. Shannen couldn’t believe that she was never going to have a school. The elementary students in her community were going to have put up with freezing cold portables and no actual facilities – no gym, library, or computer lab – forever.
+By 2007, students were still in the portables. Children as young as 9 were dropping out of school, and Shannen was in Grade 8. That’s when the government cancelled the project to build a new school. Shannen couldn’t believe that she was never going to have a school. The elementary students in her community were going to have to put up with freezing cold portables and no actual facilities – no gym, library, or computer lab – forever.
 
 ### Creating a concrete goal:
-Shannen knew that all children deserve quality education. First Nations children deserve real schools with facilities that are equal to all other schools in Canada. Shannen’s basic demand was for “safe and comfy schools and culturally appropriate education” for all children – and she knew that this was a basic right.
+Shannen knew that all children deserve quality education. First Nations children deserve real schools with facilities that are equal to all other schools in Canada. Shannen’s basic demand was for “safe and comfy schools and culturally appropriate education” for all children – and she knew that these were basic rights.
 
-### Getting her message out there – online media, rallies, and more:
+### Putting her message out there – online media, rallies, and more:
 Shannen put up Youtube videos showing mice crawling over lunches students brought to her school, and videos talking about having to wear her winter coat in class. She also made a Facebook campaign. Through online media, she got support from thousands of youth across Canada.
 
-She also began speaking at rallies and events, like the student-led forum Education is a Human Right in Toronto.
+Shannen also began speaking at rallies and events, like the student-led forum Education is a Human Right in Toronto.
 
 ### Contacting Decision Makers:
 Shannen asked other Indigenous and non-Indigenous youth to write letters to the government demanding equal opportunities for all students. It was the largest youth-led letter writing campaign in Canadian history!
