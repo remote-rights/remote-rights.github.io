@@ -1,8 +1,8 @@
 ---
 layout: people-places
-title: In My Metis Nation
-image: "/assets/img/change/in-canada.jpg"
-pdf: "/assets/pdf/change/in-canada.pdf"
+title: Métis Nation
+image: "/assets/img/change/metis-nation.jpeg"
+pdf: "/assets/pdf/change/metis-nation.pdf"
 position: 6
 ---
 

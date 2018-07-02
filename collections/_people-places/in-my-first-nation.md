@@ -1,8 +1,8 @@
 ---
 layout: people-places
-title: In My First Nation
-image: "/assets/img/change/in-canada.jpg"
-pdf: "/assets/pdf/change/in-canada.pdf"
+title: First Nation
+image: "/assets/img/change/first-nation.jpeg"
+pdf: "/assets/pdf/change/first-nation.pdf"
 aside_links: |
   **Read More** about creating change by [Creating a Concrete Goal](/strategy/create-a-concrete-goal) and [Shannen's Story](/stories/shannens-dream)
 position: 7

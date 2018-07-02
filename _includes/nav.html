@@ -8,9 +8,9 @@
         {% assign my_collections = site.collections | where: "custom", true | sort: "position" %}
         {% for collection in my_collections %}
           {% assign name = collection.label %}
-          {% if name =="strategy" %}
+          {% if name == "strategy" %}
             {% include nav-strategy.html %}
-            {% else %}
+          {% else %}
             {% include nav-default.html %}
           {% endif %}
         {% endfor %}

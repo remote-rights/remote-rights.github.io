@@ -1,8 +1,8 @@
 ---
 layout: people-places
-title: In My Non-Indigenous School
-image: "/assets/img/change/in-canada.jpg"
-pdf: "/assets/pdf/change/in-canada.pdf"
+title: Non-Indigenous School
+image: "/assets/img/change/non-indigenous-schools.jpeg"
+pdf: "/assets/pdf/change/non-indigenous-schools.pdf"
 aside_title: Related Resources
 aside_links: |
   **Read More** about [School Boards](/resources#3-school-boards-by-province-and-territory) and how to [Organize a Protest](/strategy/organize-a-protest)

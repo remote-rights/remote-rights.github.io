@@ -1,8 +1,8 @@
 ---
 layout: people-places
-title: In My Community
-image: "/assets/img/change/in-canada.jpg"
-pdf: "/assets/pdf/change/in-canada.pdf"
+title: Community
+image: "/assets/img/change/community.jpeg"
+pdf: "/assets/pdf/change/community.pdf"
 aside_links: |
   **Read More** about [Finding Your People](/strategy/find-your-people) and [Keeping Yourself Safe](/strategy/make-sure-you-re-safe)<br>
   **Get Inspired!** [Candice and Nancy's Story](/stories/foxy-smash) and [Monica's Story](/stories/monica-samuel)

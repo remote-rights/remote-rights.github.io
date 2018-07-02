@@ -1,8 +1,8 @@
 ---
 layout: people-places
-title: In My Indigenous School
-image: "/assets/img/change/in-canada.jpg"
-pdf: "/assets/pdf/change/in-canada.pdf"
+title: Indigenous Schools
+image: "/assets/img/change/indigenous-schools.jpeg"
+pdf: "/assets/pdf/change/indigenous-schools.pdf"
 aside_links: |
   **Read More** about [School Boards](/resources#3-school-boards-by-province-and-territory) and how to [Organize a Protest](/strategy/organize-a-protest)<br>
   **Get Inspired!** [Nekiiyaas' Story](/stories/nekiiyaas-noakes) and [David and Travis' Story](/stories/david-shepherd-and-travis-price) 

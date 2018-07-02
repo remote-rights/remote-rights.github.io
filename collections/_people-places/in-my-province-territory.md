@@ -1,8 +1,8 @@
 ---
 layout: people-places
-title: In My Province/Territory
-image: "/assets/img/change/in-canada.jpg"
-pdf: "/assets/pdf/change/in-canada.pdf"
+title: Province/Territory
+image: "/assets/img/change/province-territory.jpeg"
+pdf: "/assets/pdf/change/province-territory.pdf"
 aside_links: >
   **Read More** abouthow to [Contact Decision Makers](/strategy/contact-decision-makers) and how to [Organize a Protest](/strategy/organize-a-protest)<br>
   **Get Inspired!** [Astrid's Story](/stories/astrid-neilson-miller) and [Maple Spring//Printemps Érable Story](/stories/maple-spring-printemps-erable)

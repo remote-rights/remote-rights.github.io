@@ -1,8 +1,8 @@
 ---
 layout: people-places
-title: In My Inuit Community
-image: "/assets/img/change/in-canada.jpg"
-pdf: "/assets/pdf/change/in-canada.pdf"
+title: Inuit Leadership
+image: "/assets/img/change/inuit-leadership.jpeg"
+pdf: "/assets/pdf/change/inuit-leadership.pdf"
 aside_links: 
 position: 10
 ---
