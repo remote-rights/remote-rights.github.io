@@ -81,3 +81,22 @@ $theme-colors: (
     text-decoration: none;
   }
 }
+
+ol {
+  list-style: none;
+  counter-reset: my-awesome-counter;
+  li {
+    counter-increment: my-awesome-counter;
+  }
+
+  li::before {
+    content: counter(my-awesome-counter) ". ";
+    display: inline-block;
+    padding-right: 10px;
+    color: $orange ;
+    font-size: 2rem;
+    font-weight: bold;
+    transform: rotate(-10deg);
+
+  }
+}
