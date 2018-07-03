@@ -1,7 +1,7 @@
 ---
 layout: strategy
 title: Find Your People
-aside_links: >
+aside_links: |
   **Read More**
 
   [Your Community](/people-places/in-my-community)
