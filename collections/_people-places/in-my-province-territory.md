@@ -2,8 +2,8 @@
 layout: people-places
 title: Province or Territory
 display_title: In My Province or Territory
-image: "/assets/img/change/in-canada.jpg"
-pdf: "/assets/pdf/change/in-canada.pdf"
+image: "/assets/img/change/province-territory.jpeg"
+pdf: "/assets/pdf/change/province-territory.pdf"
 aside_links: |
   **Read More**
 
