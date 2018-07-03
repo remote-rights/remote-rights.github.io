@@ -16,6 +16,6 @@ aside_links: |
   [Nekiiyaas' Story](/stories/nekiiyaas-noakes)
 
   [David and Travis' Story](/stories/david-shepherd-and-travis-price)
-position: 1
+position: 2
 ---
 Decisions about education funding for Indigenous schools are made by the Government of Canada. For all other decisions about schools, like hiring teachers and what should be in the curriculum, a growing number of schools are managed by Indigenous communities and nations themselves.
