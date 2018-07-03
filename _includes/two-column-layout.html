@@ -5,10 +5,21 @@
   <div class="col-md-4 related-links" >
     {% if page.image %}
     <div align="center" >
-      <img class="img-fluid rounded mb-3" src="{{ page.image }}" >
       {% if page.image_2 %}
-        <img class="img-fluid rounded mb-3" src="{{ page.image_2 }}" >
-      {% endif %}
+        <figure>
+          <img class="img-fluid rounded mb-3" src="{{ page.image }}" alt="{{page.image_caption}}" >
+        </figure>
+        <figure>
+          <img class="img-fluid rounded mb-3" src="{{ page.image_2 }}" alt="{{page.image_caption}}" >
+          <figcaption>{{page.photo_credit}}</figcaption>
+        </figure>
+        {%else%}
+        <figure>
+          <img class="img-fluid rounded mb-3" src="{{ page.image }}" alt="{{page.image_caption}}" >
+          <figcaption>{{page.photo_credit}}</figcaption>
+        </figure>
+        {% endif %}
+
     </div>
     {% endif %}
     {% if page.aside %}
