@@ -1,6 +1,6 @@
 ---
 layout: stories
-title: Maayan Ziv
+title: AccessNow
 location: Toronto, Ontario
 subtitle: Accessibility for Everyone
 image: /assets/img/stories/maayan-ziv.jpg

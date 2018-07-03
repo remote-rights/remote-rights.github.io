@@ -1,6 +1,6 @@
 ---
 layout: stories
-title: Noah Irvine
+title: Improving Mental Health Resources 
 location: Guelph, Ontario
 image: /assets/img/stories/noah-irvine.png
 subtitle: Mental Health in Canada

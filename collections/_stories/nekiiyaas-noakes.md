@@ -1,6 +1,6 @@
 ---
 layout: stories
-title: Nekiiyaa Noakes
+title: Confronting Racism in School
 location: Manitoulin Island, Ontario
 subtitle: Confronting Racism in School
 aside_links: |
