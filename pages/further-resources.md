@@ -9,9 +9,9 @@ permalink: resources.html
 1. [Need help with a legal question?](#1-need-help-with-a-legal-question)
 2. [Free Confidential Legal Advice for Youth Under 18](#2-free-confidential-legal-advice-for-youth-under-18)
 3. [School Boards by Province and Territory](#3-school-boards-by-province-and-territory)
-4. [Police Complaints Commissions & Investigative Bodies by Province & Territory](#4-police-complaints-commissions-and-investigative-bodies-by-province-and-territory)
+4. [Police Complaints Commissions & Investigative Bodies by Province & Territory](#4-police-complaints-commissions--investigative-bodies-by-province-and-territory)
 5. [How to write a press release](#5-how-to-write-a-press-release)
-6. [How to find your Member of Parliament](#6-how-to-find-your-member-of-parliament)
+6. [How to find your Member of Parliament](#6-find-your-member-of-parliament)
 7. [Mental health resources](#7-mental-health-resources)
 
 ---
@@ -190,8 +190,6 @@ English School Boards Association School Boards: [qesba.qc.ca/en/school-boards](
 School Councils: [education.gov.yk.ca/councils.html](http://www.education.gov.yk.ca/councils.html)
 
 ## 4. Police Complaints Commissions & Investigative Bodies by Province and Territory
-
-This resource list was compiled by British Columbia's Office of the Police Complaint Commissioner, and can be found at [opcc.bc.ca/canadian-police-oversight-agencies](https://opcc.bc.ca/canadian-police-oversight-agencies).
 
 ### Alberta
 

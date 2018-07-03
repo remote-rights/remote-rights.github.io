@@ -13,7 +13,7 @@ aside_links: |
 
   [Maple Spring//Printemps Érable Story](/stories/maple-spring-printemps-erable)
 
-  [David and Travis' Story](stories/david-shepherd-and-travis-price)
+  [David and Travis' Story](/stories/david-shepherd-and-travis-price)
 position: 9
 ---
 
