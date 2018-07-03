@@ -14,7 +14,6 @@ $theme-colors: (
 );
 
 $marker: "permanent_markerregular", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
-$bebas: "bebasregular", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
 
 @font-face {
   font-family: 'permanent_markerregular';
@@ -22,16 +21,6 @@ $bebas: "bebasregular", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "
   src: url('/assets/fonts/permanent-marker/PermanentMarker-webfont.eot?#iefix') format('embedded-opentype'),
        url('/assets/fonts/permanent-marker/PermanentMarker-webfont.woff') format('woff'),
        url('/assets/fonts/permanent-marker/PermanentMarker-webfont.ttf') format('truetype');
-  font-weight: normal;
-  font-style: normal;
-}
-
-@font-face {
-  font-family: 'bebasregular';
-  src: url('/assets/fonts/bebas/BEBAS___-webfont.eot');
-  src: url('/assets/fonts/bebas/BEBAS___-webfont.eot?#iefix') format('embedded-opentype'),
-       url('/assets/fonts/bebas/BEBAS___-webfont.woff') format('woff'),
-       url('/assets/fonts/bebas/BEBAS___-webfont.ttf') format('truetype');
   font-weight: normal;
   font-style: normal;
 }
@@ -57,32 +46,5 @@ $bebas: "bebasregular", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "
   background: none;
   .title {
     padding-top: 2rem;
-  }
-}
-
-.home-page-card {
-  border-color: $orange;
-  border-width: 4px;
-  height: 150px;
-  text-align: center;
-
-  a {
-
-  }
-
-  .card-body {
-    padding: 0;
-  }
-
-  a .card-title {
-    display: flex;
-    justify-content: center;
-    flex-direction: column;
-    height: 150px;
-    padding: 1rem;
-  }
-
-  a:hover {
-    text-decoration: none;
   }
 }

@@ -1,6 +1,6 @@
 ---
 layout: home
-title: Advocacy Toolkit
+title: The Advocacy Toolkit
 subtitle: Be The Change. Defend Your Rights.
 ---
 
