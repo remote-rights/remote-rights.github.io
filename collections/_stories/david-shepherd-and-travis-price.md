@@ -1,6 +1,7 @@
 ---
 layout: stories
-title: Protesting Bullying
+display_title: Protesting Bullying
+title: David Sheperd & Travis Price
 location: Berwick, Nova Scotia
 subtitle: International Day of Pink - Bullying in School
 image: /assets/img/stories/pink.png
