@@ -21,6 +21,16 @@
   }
 }
 
+@include media-breakpoint-down(sm) {
+  .jumbotron.page-title{
+    h1 {
+      line-height: 1;
+      font-size: 2.5rem;
+    }
+    background: none;
+  }
+}
+
 .jumbotron.stories-header {
   padding: 0;
   background: url(/assets/img/stories/header.png);
