@@ -1,9 +1,11 @@
 ---
 layout: stories
-title: Black Women in Motion 
+title: Monica Samuel
+second_title: Black Women in Motion
 location: Toronto, Ontario
 subtitle: Creating Safe Places for Women of Colour
 image: /assets/img/stories/monica-samuel.jpg
+image_caption: photo of Monica Samuel
 aside_links: |
   **Read More**
 

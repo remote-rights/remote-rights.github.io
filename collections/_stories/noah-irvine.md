@@ -1,8 +1,9 @@
 ---
 layout: stories
-title: Improving Mental Health Resources 
+title: Improving Mental Health Resources
 location: Guelph, Ontario
 image: /assets/img/stories/noah-irvine.png
+image_caption: photo of Noah Irvine
 subtitle: Mental Health in Canada
 aside_links: |
   **Read More**
@@ -40,4 +41,4 @@ Noah continues to write letters to advocate for the creation of Ministries of Me
 
 ### Noah's advice:
 
-"Successful advocacy is hard work and takes time. You have to be fully committed to whatever cause you’re advocating for. It’s a fact, politicians aren’t going to listen to you. They’re going to ignore you or put you off. You have to keep going after them. You have to let them know you’re not going away. You have to let them know you expect answers from them. You should have one or two concrete goals. Ask politicians directly what they’re doing to support or achieve those goals. If they don’t answer, ask them again. When you ask a question deserve an answer.""
+"Successful advocacy is hard work and takes time. You have to be fully committed to whatever cause you’re advocating for. It’s a fact, politicians aren’t going to listen to you. They’re going to ignore you or put you off. You have to keep going after them. You have to let them know you’re not going away. You have to let them know you expect answers from them. You should have one or two concrete goals. Ask politicians directly what they’re doing to support or achieve those goals. If they don’t answer, ask them again. When you ask a question deserve an answer."
