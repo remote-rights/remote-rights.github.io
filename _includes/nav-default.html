@@ -5,7 +5,11 @@
   <div class="dropdown-menu" aria-labelledby="navbarDropdown">
     {% assign pages = site[name] | sort: "position" %}
     {% for page in pages %}
-      <a class="dropdown-item" href="{{ page.url | base_url }}">{{ page.title }}</a>
+      {% if page.display_title %}
+        <a class="dropdown-item" href="{{ page.url | base_url }}">{{ page.display_title }}</a>
+      {% else %}
+        <a class="dropdown-item" href="{{ page.url | base_url }}">{{ page.title }}</a>
+      {% endif %}
     {% endfor %}
   </div>
 </li>

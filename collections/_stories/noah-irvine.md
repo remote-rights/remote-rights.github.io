@@ -20,7 +20,7 @@ In a Grade 11 writing assignment, Noah wrote a letter about mental health and ad
 
 ### Contacting Decision Makers:
 
-n 2017, Noah and his grandfather looked up the constituency addresses of all 338 Members of Parliament across Canada and sent out 338 personalized letters!
+In 2017, Noah and his grandfather looked up the constituency addresses of all 338 Members of Parliament across Canada and sent out 338 personalized letters!
 
 ### Putting his message out there using news media:
 

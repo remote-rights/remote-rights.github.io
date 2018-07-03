@@ -1,17 +1,19 @@
 {% include head.html %}
-<div class="row justify-content-centre">
-  <div class="col-xs-12">
-    <h1>{{ page.title }}</h1>
+<div class="jumbotron page-title">
+  <h1 class="display-3">{{ page.title }}</h1>
+</div>
+<div class="row">
+  <div class="col">
     <div class="row">
       <div class="col-md-8">
         {{ content }}
-        <ul class="nav nav-tabs my-3">
+        <ul class="nav nav-pills flex-column flex-sm-row mt-3">
           {% assign items = site.schools | sort: "position" %}
           {% for item in items %}
             {% if item.position == 1 %}
-              <li class="nav-item"><a class="nav-link active" data-toggle="pill" href="#{{ item.reference }}">{{ item.title }}</a></li>
+              <li class="nav-item flex-sm-fill text-sm-center mb-2"><a class="nav-link active" data-toggle="pill" href="#{{ item.reference }}">{{ item.title }}</a></li>
             {% else %}
-              <li class="nav-item"><a class="nav-link" data-toggle="pill" href="#{{ item.reference }}">{{ item.title }}</a></li>
+              <li class="nav-item flex-sm-fill text-sm-center"><a class="nav-link" data-toggle="pill" href="#{{ item.reference }}">{{ item.title }}</a></li>
             {% endif %}
           {% endfor %}
         </ul>

@@ -1,0 +1,11 @@
+$orange:      #EEA902;
+$teal:       #3588A0;
+$robins-egg: #ADDFEE;
+
+$theme-colors: (
+  "primary":      $teal,
+  "secondary":    $robins-egg,
+  "header-color": $orange
+);
+
+$marker: "permanent_markerregular", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";

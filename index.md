@@ -4,8 +4,6 @@ title: The Advocacy Toolkit
 subtitle: Be The Change. Defend Your Rights.
 ---
 
-Is there something you want to change? [What does advocacy mean anyway](/key-terms.html#what-does-advocacy-mean)? This is a guide to help you be the change and defend your rights.
-
 ## How to use this toolkit:
 
 ### There is something I want to change...

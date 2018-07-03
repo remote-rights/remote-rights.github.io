@@ -7,14 +7,22 @@
     {% assign essential = pages | slice: 0, 3 %}
     <h6 class="dropdown-header">Crucial</h6>
     {% for page in essential %}
-      <a class="dropdown-item" href="{{ page.url | base_url }}">{{ page.title }}</a>
+      {% if page.display_title %}
+        <a class="dropdown-item" href="{{ page.url | base_url }}">{{ page.display_title }}</a>
+      {% else %}
+        <a class="dropdown-item" href="{{ page.url | base_url }}">{{ page.title }}</a>
+      {% endif %}
     {% endfor %}
     <div class="dropdown-divider"></div>
     {% assign count = pages | size | minus: 1 %}
     {% assign optional = pages | slice: 3, count %}
     <h6 class="dropdown-header">Further Actions</h6>
     {% for page in optional %}
-      <a class="dropdown-item" href="{{ page.url | base_url }}">{{ page.title }}</a>
+      {% if page.display_title %}
+        <a class="dropdown-item" href="{{ page.url | base_url }}">{{ page.display_title }}</a>
+      {% else %}
+        <a class="dropdown-item" href="{{ page.url | base_url }}">{{ page.title }}</a>
+      {% endif %}
     {% endfor %}
   </div>
 </li>

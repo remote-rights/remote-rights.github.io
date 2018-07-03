@@ -3,28 +3,8 @@
 # only Main files contain this front matter, not partials.
 ---
 
-$orange:      #EEA902;
-$teal:       #3588A0;
-$robins-egg: #ADDFEE;
-
-$theme-colors: (
-  "primary":      $teal,
-  "secondary":    $robins-egg,
-  "header-color": $orange
-);
-
-$marker: "permanent_markerregular", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
-
-@font-face {
-  font-family: 'permanent_markerregular';
-  src: url('/assets/fonts/permanent-marker/PermanentMarker-webfont.eot');
-  src: url('/assets/fonts/permanent-marker/PermanentMarker-webfont.eot?#iefix') format('embedded-opentype'),
-       url('/assets/fonts/permanent-marker/PermanentMarker-webfont.woff') format('woff'),
-       url('/assets/fonts/permanent-marker/PermanentMarker-webfont.ttf') format('truetype');
-  font-weight: normal;
-  font-style: normal;
-}
-
+@import "custom-variables";
+@import "fonts";
 @import "bootstrap/bootstrap";
 @import "layout";
 @import "home-page";
@@ -37,14 +17,23 @@ $marker: "permanent_markerregular", -apple-system, BlinkMacSystemFont, "Segoe UI
     color: theme-color("primary");
     border-bottom: 0.9rem solid $orange;
     display: inline-block;
-    line-height: 0.8;
+    line-height: 0.6;
   }
 }
 
 .jumbotron.stories-header {
   padding: 0;
-  background: none;
+  background: url(/assets/img/stories/header.png);
+  background-position: right;
+  background-repeat: no-repeat;
+  border-radius: 0;
   .title {
     padding-top: 2rem;
+  }
+}
+
+@include media-breakpoint-down(md) {
+  .jumbotron.stories-header {
+    background: none;
   }
 }

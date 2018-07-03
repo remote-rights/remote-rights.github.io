@@ -1,27 +1,25 @@
+.intro-lead {
+  font-size: 1.75rem;
+}
 
 .jumbotron.home-page {
-  height: 500px;
   position: relative;
   margin-bottom: 3rem;
+  background: $white;
+  padding: 1rem 2rem;
 
   .title {
-    color: theme-color("header-color");
-    position: absolute;
-    bottom: 0;
-    left: 0;
-    right: 0;
-    background: rgba(theme-color("primary"), 0.8);
-    border-bottom-left-radius: $border-radius;
-    border-bottom-right-radius: $border-radius;
-    padding: 1em;
+    color: theme-color("primary");
 
     h1, h2, h3 {
       letter-spacing: -.5px;
       font-family: $marker;
+      border-bottom: 0.9rem solid $orange;
+      display: inline-block;
     }
 
     .display-3 {
-      line-height: 1;
+      line-height: 0.8;
     }
 
     p {
@@ -32,9 +30,32 @@
   }
 }
 
+.jumbotron.intro {
+  height: 500px;
+  background: url(/assets/img/home-page-rally.jpg);
+  background-position: bottom;
+  background-size: cover;
+  .title {
+    color: theme-color("header-color");
+    background: rgba(theme-color("primary"), 0.8);
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    border-bottom-left-radius: $border-radius;
+    border-bottom-right-radius: $border-radius;
+    padding: 1em;
+
+    h1 {
+      border-bottom: none;
+    }
+  }
+}
+
 @include media-breakpoint-down(sm) {
   .jumbotron.home-page {
     max-height: 250px;
+    padding: 0;
 
     .title {
       top: 0;
@@ -45,30 +66,6 @@
       font-size: 2.5rem;
     }
   }
-}
-
-.jumbotron.intro {
-  background: url(/assets/img/home-page-rally.jpg);
-  background-position: bottom;
-  background-size: cover;
-}
-
-.jumbotron.people-places {
-  background: url(/assets/img/home-page-hands-up.jpg);
-  background-position: bottom;
-  background-size: cover;
-}
-
-.jumbotron.strategy {
-  background: url(/assets/img/home-page-students.jpg);
-  background-position: bottom;
-  background-size: cover;
-}
-
-.jumbotron.stories {
-  background: url(/assets/img/home-page-microphones.jpg);
-  background-position: bottom;
-  background-size: cover;
 }
 
 .story.image {

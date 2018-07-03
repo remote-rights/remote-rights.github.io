@@ -1,5 +1,5 @@
 url: https://remote-rights.github.io
-title: Remote Rights Advocacy Toolkit
+title: The Advocacy Toolkit
 
 collections_dir: collections
 collections:
@@ -11,7 +11,7 @@ collections:
     position: 1
 
   strategy:
-    title: Advocacy Strategies
+    title: What can I do?
     output: true
     permalink: /:collection/:title
     in_nav: true
