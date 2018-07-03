@@ -6,9 +6,8 @@ aside_title: Related Resources
 aside_links: |
   **Read More**
 
-  [School Boards](/resources#3-school-boards-by-province-and-territory)
-
-  [Organize a Protest](/strategy/organize-a-protest)
+  - [A complete list of school boards](/resources#3-school-boards-by-province-and-territory)
+  - [Organize a protest](/strategy/organize-a-protest)
 
   **Get Inspired!**
 
