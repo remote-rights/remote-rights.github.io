@@ -5,14 +5,13 @@ display_title: With the Police
 image: "/assets/img/change/police.png"
 pdf: "/assets/pdf/change/police.pdf"
 aside_links: |
-  **Related Resources:**
-
-   
   **Are you in trouble with the police?**
   Check out [Further Resources](/resources) for:
   - [free confidential legal advice for youth under 18](/resources#2-free-confidential-legal-advice-for-youth-under-18)
 
-  - information about your rights with the police
+  - [information about your rights with the police](/resources.html#1-need-help-with-a-legal-question)
+
+  **Related Resources:**
 
   You can also find a list of the complaints commissions and investigative bodies by province in the under [Police Complaints Commissions & Investigative Bodies by Province & Territory](/resources#4-police-complaints-commissions-and-investigative-bodies-by-province-and-territory) on the Further Resources page.
 
