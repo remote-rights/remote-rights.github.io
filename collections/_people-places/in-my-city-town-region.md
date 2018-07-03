@@ -2,7 +2,7 @@
 layout: people-places
 title: City, Town or Region
 display_title: In my City, Town, or Region
-image: "/assets/img/change/city-town-region.jpeg"
+image: "/assets/img/change/city-town-region.png"
 pdf: "/assets/pdf/change/city-town-region.pdf"
 position: 9
 ---

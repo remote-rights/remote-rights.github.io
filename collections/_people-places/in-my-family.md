@@ -2,7 +2,7 @@
 layout: people-places
 title: Family
 display_title: In My Family
-image: "/assets/img/change/family.jpeg"
+image: "/assets/img/change/family.png"
 pdf: "/assets/pdf/change/family.pdf"
 aside_links: |
   **Read More about Creating Change:**

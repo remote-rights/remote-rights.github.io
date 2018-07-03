@@ -1,7 +1,7 @@
 ---
 layout: people-places
 title: Non-Indigenous Schools
-image: "/assets/img/change/non-indigenous-schools.jpeg"
+image: "/assets/img/change/non-indigenous-schools.png"
 pdf: "/assets/pdf/change/non-indigenous-schools.pdf"
 reference: non-indigenous-schools
 position: 1

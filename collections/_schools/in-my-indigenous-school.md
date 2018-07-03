@@ -1,7 +1,7 @@
 ---
 layout: people-places
 title: Indigenous Schools
-image: "/assets/img/change/indigenous-schools.jpeg"
+image: "/assets/img/change/indigenous-schools.png"
 pdf: "/assets/pdf/change/indigenous-schools.pdf"
 reference: indigenous-schools
 aside_links: |
