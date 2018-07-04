@@ -22,7 +22,7 @@ You can definitely do advocacy without a big group - e.g., you can write a lette
 - If you decide to advertise, don't include your phone number, and use a unique email address that's not connected to you personally.
 
 
-## Start Where You Go Every day
+## Start Where You Go Every Day
 
 - Talk to the people you see every day about your cause.
 - If you've decided it's safe, create flyers to post in places where lots of people hang out, like a coffee shop or the cafeteria.

@@ -13,7 +13,7 @@ aside_links: |
 
   **Related Resources:**
 
-  You can also find a list of the complaints commissions and investigative bodies by province in the under [Police Complaints Commissions & Investigative Bodies by Province & Territory](/resources#4-police-complaints-commissions-and-investigative-bodies-by-province-and-territory) on the Further Resources page.
+  You can also find a list of the complaints commissions and investigative bodies by province under [Police Complaints Commissions & Investigative Bodies by Province & Territory](/resources#4-police-complaints-commissions-and-investigative-bodies-by-province-and-territory) on the Further Resources page.
 
 position: 12
 ---
